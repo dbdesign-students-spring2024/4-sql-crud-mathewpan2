@@ -45,12 +45,12 @@ $ .import data/reviews.csv reviews
 
 1. Find all cheap restaurants in a particular neighborhood (pick any neighborhood as an example).
 ```
-select * from restaurants where neightborhood="brooklyn" and price="cheap";
+select * from restaurants where neightborhood='brooklyn' and price='cheap';
 ```
 2. Find all restaurants in a particular genre (pick any genre as an example) with 3 stars or more, ordered by the number of stars in descending order.
 
 ```
-select * from restaurants where category="pizza" and average_rating >= 3 order by average_rating;
+select * from restaurants where category='pizza' and average_rating >= 3 order by average_rating;
 ```
 
 3. Find all restaurants that are open now (see hint below).
@@ -63,7 +63,7 @@ opening_hours and closing_hours;
 
 ```
 insert into reviews (review, resturant_id) values
-    ("I didn't like the food, (select id from restaurants where name='pizza hut'));
+    ('I didn't like the food', (select id from restaurants where name='pizza hut'));
 ```
 
 5. Delete all restaurants that are not good for kids.
@@ -118,20 +118,20 @@ $ .import data/posts.csv posts
 
 ```
 insert into users (email, password, handle)
-    values ("mail@email.com", "123456", "mailguy");
+    values ('mail@email.com', '123456', 'mailguy');
 ```
 
 2. Create a new Message sent by a particular User to a particular User (pick any two Users for example).
 ```
 insert into posts (type, author_id, receiver_id, content )
-    values ('message', (select id from users where email="mail@email.com"), (select id from users where email="guy@email.com"), "I don't like you");
+    values ('message', (select id from users where email='mail@email.com'), (select id from users where email='guy@email.com'), 'I don't like you');
 ```
 
 3. Create a new Story by a particular User (pick any User for example).
 
 ```
 insert into posts (type, author_id, content)
-    values ('story', (select id from users where email="mail@email.com"), "Just got married.")
+    values ('story', (select id from users where email='mail@email.com'), 'Just got married.')
 ```
 
 4. Show the 10 most recent visible Messages and Stories, in order of recency.
