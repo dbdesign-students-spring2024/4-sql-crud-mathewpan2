@@ -1,0 +1,1001 @@
+id,name,category,price,neighborhood,opening_hours,closing_hours,average_rating,good_for_kids,created
+1,sodium fluoride,Mouth Rinse,78,Shelley,1:19 PM,3:04 PM,4,1,12/10/2023
+2,Ampicillin sodium and Sulbactam sodium,Ampicillin and Sulbactam,62,Armistice,12:33 PM,2:00 PM,3,1,2/23/2024
+3,"Antimonium tartaricum, Bromium, Bryonia, Carbo vegetabilis, Carduus marianus, Echinacea purpurea, Hepar sulphuris calcareum, Kali bichromicum, Lobelia inflata, Phosphorus, Phytolacca decandra, Silicea, Solidago virgaurea, Spongia tosta, Sulphur iodatum",D-TOX Remedy,47,Jana,5:02 PM,4:11 AM,5,0,2/28/2023
+4,Naproxen Sodium,care one all day pain relief,15,Brickson Park,11:22 PM,2:05 PM,3,0,11/10/2023
+5,"Dextromethorphan HBr, Guaifenesin",daytime,68,Schlimgen,6:00 PM,9:22 AM,2,0,1/9/2024
+6,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",Night Time Original,56,Sherman,10:55 AM,1:08 AM,2,1,2/13/2024
+7,Loratadine,Loratadine,72,Muir,6:36 PM,10:18 AM,4,0,8/13/2023
+8,"CAMPHOR (SYNTHETIC), MENTHOL, METHYL SALICYLATE",ATOPALM MOISTURIZING MUSCLE RUB,79,Knutson,8:49 PM,12:30 AM,3,0,11/21/2023
+9,verapamil hydrochloride,Verapamil Hydrochloride,51,Stuart,8:05 AM,2:49 AM,1,0,8/13/2023
+10,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",SMART SENSE,59,Shoshone,5:08 AM,10:04 AM,5,0,10/9/2023
+11,"OCTINOXATE, OCTOCRYLENE, OCTISALATE, and AVOBENZONE",Kinesys,44,Rowland,10:52 AM,7:35 PM,3,1,4/10/2023
+12,Acremonium strictum,Acremonium strictum,50,Kings,10:16 PM,6:30 PM,3,1,9/16/2023
+13,"TITANIUM DIOXIDE, OCTINOXATE",Givenchy Photo Perfexion Fluid Foundation Broad Spectrum SPF 20 Perfect Cinnamon,40,Gerald,2:31 AM,10:45 AM,4,1,5/31/2023
+14,Cephalexin,Cephalexin,79,Ludington,10:15 PM,4:33 AM,5,1,7/4/2023
+15,Phenytoin Sodium,Extended Phenytoin Sodium,2,Brentwood,8:53 AM,3:41 PM,2,1,3/12/2023
+16,omeprazole,Omeprazole,56,Forster,2:59 AM,5:48 PM,1,1,7/9/2023
+17,"Dextromethorphan HBr, Guaifenesin",Good Neighbor Pharmacy tussin dm max,94,Declaration,8:32 AM,9:50 AM,1,1,8/19/2023
+18,Hydrocodone Bitartrate and Acetaminophen,LORCET,81,Hoepker,3:05 AM,7:59 PM,5,1,7/19/2023
+19,Permethrin,lice treatment,57,Glendale,7:52 PM,10:43 PM,1,1,1/9/2024
+20,Atenolol,Atenolol,70,Morrow,10:35 AM,11:17 AM,4,0,10/2/2023
+21,DEXPANTHENOL,ATOMY HERBAL HAIR TONIC,35,Vermont,1:19 AM,5:01 AM,2,1,4/22/2023
+22,emtricitabine and tenofovir disoproxil fumarate,Truvada,83,Oxford,11:48 PM,10:32 PM,1,1,8/23/2023
+23,nicotine polacrilex,Nicotine,37,Monterey,4:59 AM,10:07 AM,1,1,3/20/2023
+24,Minoxidil,MINOXIDIL,18,Jana,10:49 PM,5:51 PM,4,1,2/14/2024
+25,Tolnaftate,Western Family,92,Vermont,11:31 AM,9:05 AM,1,1,6/13/2023
+26,RISPERIDONE,RISPERIDONE,64,Bartelt,7:37 AM,1:51 AM,1,0,8/26/2023
+27,sitagliptin,JANUVIA,15,Memorial,11:29 PM,12:34 AM,4,0,5/30/2023
+28,"China sulphuricum, Thiosinaminum, Petroselinum, Salicylic acid, Kali phosphoricum",Homeopathic Ringing Ear Formula,26,Almo,1:58 AM,5:19 AM,5,0,8/17/2023
+29,"Octinoxate, Octisalate, Zinc Oxide, Titanium Dioxide",Atomy Sunscreen Beige,84,Nevada,9:32 AM,7:23 PM,4,1,4/11/2023
+30,"Homosalate, Octinoxate, Avobenzone and Octocrylene",LIPSTICK QUEEN ENDLESS SUMMER Broad Spectrum SPF 15 Sunscreen,48,Bonner,11:52 AM,2:34 PM,2,0,7/27/2023
+31,hydrocortisone and acetic acid,Hydrocortisone and Acetic Acid,6,Maryland,5:55 AM,10:19 AM,2,0,3/23/2023
+32,Diphenhydramine Hydrochloride,healthy accents allergy relief,23,Dapin,5:49 PM,7:39 AM,5,1,7/14/2023
+33,Penicillium notatum,Penicillium notatum,80,Meadow Vale,9:30 PM,11:44 PM,3,0,6/17/2023
+34,Octinoxate and Oxybenzone,LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15,26,Prairie Rose,8:36 AM,11:47 PM,3,1,8/17/2023
+35,clonazepam,Clonazepam,97,Brentwood,12:59 PM,4:55 PM,4,1,2/19/2024
+36,ETHYL ALCOHOL,Anti-Bacterial Hand Gel Vanilla Cupcake,34,Coleman,9:38 AM,5:06 PM,1,0,9/22/2023
+37,Triamterene and hydrochlorothiazide,Triamterene hydrochlorothiazide,8,Starling,4:26 PM,10:12 AM,2,1,3/25/2023
+38,AMITRIPTYLINE HYDROCHLORIDE,Amitriptyline Hydrochloride,19,Packers,8:07 AM,2:24 PM,1,0,4/18/2023
+39,FAMCICLOVIR,FAMCICLOVIR,15,Bunting,5:08 PM,12:52 PM,1,0,1/22/2024
+40,Esomeprazole magnesium,NEXIUM,25,Maple Wood,5:30 AM,6:22 AM,4,1,4/17/2023
+41,Birch,Birch,54,Main,6:35 AM,2:35 PM,2,0,11/3/2023
+42,risperidone,Risperidone,46,Springs,8:29 AM,10:10 PM,1,1,12/23/2023
+43,cetirizine hydrochloride,cetirizine hydrochloride,45,Dayton,10:12 AM,8:15 AM,3,1,7/25/2023
+44,Meloxicam,Meloxicam,36,Prairieview,11:30 PM,8:14 AM,1,1,12/16/2023
+45,Ramipril,Ramipril,52,Loomis,8:15 PM,11:15 PM,2,0,6/17/2023
+46,Aspirin,Adult Low Dose Aspirin,32,Sullivan,1:55 AM,4:14 PM,1,1,10/12/2023
+47,Etodolac,Etodolac,48,Arizona,1:03 AM,7:06 AM,1,1,7/22/2023
+48,Medicated Corn Removers,Salicylic Acid,52,Grover,7:30 PM,8:27 AM,2,0,3/13/2023
+49,"Calcium carbonate, sodium bicarbonate",Ohtas Isan Antacid,38,Lillian,11:20 PM,6:21 PM,2,0,5/24/2023
+50,Glycerin,Baborganic Pure Energizing Skin,9,Steensland,3:50 PM,10:30 PM,5,1,5/5/2023
+51,Corn Pollen,ZEA MAYS POLLEN,19,Chinook,4:55 AM,10:58 AM,4,1,12/11/2023
+52,Miconazole,MakeSense,20,Pierstorff,3:06 AM,11:49 PM,3,0,4/21/2023
+53,moxifloxacin hydrochloride,VIGAMOX,57,6th,11:23 AM,2:40 PM,4,1,10/23/2023
+54,dorzolamide hydrochloride and timolol maleate,dorzolamide hydrochloride-timolol maleate,46,1st,4:29 PM,12:02 PM,1,0,12/20/2023
+55,Ibuprofen,Ibuprofen,94,Dapin,8:43 AM,11:36 AM,3,0,6/29/2023
+56,Quack Grass,Quack Grass,54,Elmside,9:21 PM,10:26 PM,4,1,11/2/2023
+57,amlodipine besylate and atorvastatin calcium,Caduet,75,Homewood,4:50 AM,3:53 PM,1,0,12/31/2023
+58,ciprofloxacin,ciprofloxacin,98,Roxbury,2:50 AM,3:17 AM,4,1,4/6/2023
+59,Yeast Saccharomyces cerevisiae,PENICILLIUM CHRYSOGENUM VAR CHRYSOGENUM,75,Troy,2:00 AM,1:56 PM,4,0,1/5/2024
+60,Irbesartan,Irbesartan,61,Mcguire,12:44 PM,10:41 PM,5,0,1/17/2024
+61,Nicotine,Nicotine Transdermal System,47,Laurel,12:36 AM,2:29 AM,3,0,12/8/2023
+62,Black Locust,ROBINIA PSEUDOACACIA POLLEN,69,Grayhawk,11:07 AM,3:47 AM,3,0,5/2/2023
+63,Buprenorphine HCl,Buprenorphine HCl,89,La Follette,11:21 PM,7:39 PM,3,1,3/5/2023
+64,West Wheat Grass,West Wheat Grass,40,Nancy,12:14 PM,1:21 PM,2,0,7/13/2023
+65,ZINC ACETATE ANHYDROUS and ZINC GLUCONATE,Zicam,77,Bunting,2:22 PM,3:39 PM,4,0,12/5/2023
+66,"Citrus Limonum, Echinacea, Scrophularia Nodosa, Teucrium Scorodonia, Baptisia Tinctoria, Lobelia Inflata, Phytolacca Decandra",Lymph Drainage,50,Lunder,1:38 PM,2:21 PM,3,1,4/20/2023
+67,"Aluminum hydroxide, Magnesium hydroxide, Simethicone",antacid,63,Linden,2:09 AM,3:28 PM,4,0,7/10/2023
+68,"Dextromethorphan, Guiafenesin, Pseudoephedrine HCl",Tusnel,60,Stoughton,11:18 PM,1:36 AM,3,1,3/25/2023
+69,Lien Cichorium,Lien Cichorium,68,Jenna,2:46 AM,8:46 AM,2,0,3/14/2023
+70,potassium chloride,potassium chloride,97,Summit,9:56 AM,3:41 PM,3,1,9/23/2023
+71,"Sodium Chloride, Thuja Occidentalis Bark, and Calendula Officinalis Flowering Top",H-Balm Cleanse,73,Mayer,2:37 AM,5:00 AM,5,1,10/5/2023
+72,Dehydrated alcohol,Dehydrated Alcohol,36,Lawn,6:40 PM,8:24 AM,2,1,2/8/2024
+73,Capsaicin,Meijer Medicated Heat,59,Springs,2:24 AM,11:25 AM,1,1,5/16/2023
+74,GLYCERIN,DooBony Mosrepel,19,Burrows,12:05 AM,6:21 AM,1,0,1/30/2024
+75,MORPHINE SULFATE,MORPHINE SULFATE,76,Longview,12:10 AM,12:05 PM,2,1,11/26/2023
+76,SODIUM FLUORIDE and POTASSIUM NITRATE,Colgate Sensitive Multiprotection,45,Erie,11:55 AM,12:37 PM,2,1,10/25/2023
+77,"TITANIUM DIOXIDE, ZINC OXIDE",napoleon PERDIS ADVANCED MINERAL MAKEUP BROAD SPECTRUM SPF 15 Look 5,8,Mcbride,5:46 AM,5:37 PM,3,1,9/30/2023
+78,TAMSULOSIN HYDROCHLORIDE,Tamsulosin Hydrochloride,52,Swallow,10:42 PM,2:56 PM,1,1,6/30/2023
+79,nicotine polacrilex,Nicorette,33,Upham,11:44 AM,3:17 PM,2,1,3/13/2023
+80,"ESTROGENS, CONJUGATED",Premarin,58,Schiller,12:34 AM,4:26 PM,5,0,5/17/2023
+81,Ibuprofen,Ibuprofen,72,Hovde,4:15 PM,4:54 PM,4,0,7/9/2023
+82,SERTRALINE HYDROCHLORIDE,SERTRALINE HYDROCHLORIDE,79,Goodland,5:40 PM,10:46 PM,3,0,2/24/2024
+83,"Avobenzone, Octisalate, Octocrylene, and Oxybenzone",LBEL LEDERM 55plus Jour,15,Logan,2:25 PM,4:55 AM,5,0,12/5/2023
+84,Acyclovir,Acyclovir,2,Eagan,4:05 AM,7:20 AM,2,1,2/13/2024
+85,Acetaminophen,Gesteira,10,Drewry,9:54 AM,2:49 AM,1,0,11/1/2023
+86,"glycerin, phenylephrine HCl, pramoxine HCl, white petrolatum",hemorrhoidal,85,Merry,4:29 AM,3:13 PM,3,1,6/10/2023
+87,Octinoxate and Titanium dioxide,SHISEIDO MAKEUP REFINING MAKEUP PRIMER,88,Mcguire,12:28 PM,7:59 AM,2,0,6/5/2023
+88,Potassium Nitrate and Sodium Fluoride,Freshmist Sensitive Toothpaste,56,Northport,1:30 AM,2:04 AM,2,0,7/4/2023
+89,Omeprazole,leader omeprazole,74,Transport,8:24 AM,7:18 PM,4,0,2/14/2024
+90,Levothyroxine Sodium,Synthroid,100,Elka,3:11 PM,5:30 PM,3,1,1/21/2024
+91,Chromium Picolinate,Divista,54,Commercial,10:12 PM,1:56 PM,4,0,6/15/2023
+92,"cocoa butter, phenylephrine hcl",ShopRite Hemorrhoidal,2,Prentice,4:39 PM,11:01 PM,4,0,5/2/2023
+93,Cotton Linters,Cotton Linters,3,Hoepker,2:23 PM,1:11 AM,5,0,11/12/2023
+94,AURUM METALLICUM,AURUM METALLICUM,20,Cardinal,10:41 AM,2:17 PM,5,0,11/30/2023
+95,"Cimicifuga racemosa , Fucus vesiculosus, Glycyrrhiza glabra, Xanthoxylum fraxineum, Adrenalinum, Brain, Hypothalamus, Oophorinum, Pineal, Pituitarum posterium, Thyroidinum, Pulsatilla, Sepia,",Endoplex,82,Bunker Hill,3:12 AM,1:31 PM,1,1,2/5/2024
+96,Antihemophilic Factor (Recombinant),Kogenate FS,34,Basil,7:29 AM,2:37 AM,3,0,4/8/2023
+97,Naproxen Sodium,Naproxen Sodium,38,Pankratz,4:35 PM,9:20 PM,5,1,8/4/2023
+98,Carvedilol,Carvedilol,83,Del Sol,1:02 PM,1:06 PM,2,0,9/9/2023
+99,tobramycin and dexamethasone,TobraDex,93,Blue Bill Park,8:08 AM,4:37 PM,2,1,3/29/2023
+100,"Acetaminophen, Chlorpheniramine Maleate, DEXTROMETHORPHAN HYDROBROMIDE",Childrens Plus Cough and Runny Nose,67,Prentice,2:29 PM,5:44 PM,5,0,5/13/2023
+101,"TITANIUM DIOXIDE, ZINC OXIDE",Aqua Aura Moist Finish Pact,49,Ryan,8:10 PM,2:11 PM,3,1,11/23/2023
+102,enoxaparin sodium,Lovenox,4,Del Sol,8:52 AM,1:23 AM,3,1,5/7/2023
+103,"Clindamycin, Benzoyl Peroxide",clindamycin phosphate and benzoyl peroxide,20,Weeping Birch,3:03 AM,12:02 PM,2,1,12/19/2023
+104,Thuja Occidentalis,Terrasil Molluscum Treatment,57,Brentwood,6:40 AM,12:11 PM,3,0,11/15/2023
+105,Ezetimibe/Simvastin,Vytorin,22,Riverside,8:18 PM,6:30 PM,3,0,9/25/2023
+106,Oxygen,Oxygen,27,Bay,3:19 PM,4:01 PM,1,1,1/28/2024
+107,amlodipine besylate and atorvastatin calcium,Amlodipine besylate and Atorvastatin calcium,11,Hintze,3:15 PM,11:28 AM,4,1,3/8/2023
+108,Ethyl Alcohol,Quality Choice Iodides Tincture,89,Mallard,4:35 PM,8:14 PM,2,1,9/15/2023
+109,MEDROXYPROGESTERONE ACETATE,medroxyprogesterone acetate,43,Waywood,7:03 AM,9:43 PM,5,1,6/6/2023
+110,Nicotine Polacrilex,good neighbor pharmacy nicotine,5,Hoard,4:20 PM,10:28 PM,2,1,8/9/2023
+111,Ethyl Alcohol,Anti-bacterial Hand,37,Meadow Vale,12:33 PM,6:23 PM,5,0,3/16/2023
+112,not applicable,VITAL,37,Colorado,8:34 PM,2:11 PM,5,1,12/8/2023
+113,"Guaifenesin, Phenylephrine HCl",Sinus Relief PE,93,Boyd,4:12 PM,9:30 PM,1,0,5/20/2023
+114,carisoprodol,carisoprodol,64,Steensland,8:31 PM,6:41 AM,1,0,1/20/2024
+115,Sertraline Hydrochloride,Sertraline Hydrochloride,71,Stoughton,8:11 AM,2:27 PM,2,1,2/23/2024
+116,Carbamazepine,Carbamazepine,23,Caliangt,11:03 PM,2:00 PM,5,0,6/21/2023
+117,Aspirin,Aspirin,7,Division,10:35 PM,1:35 AM,4,0,1/19/2024
+118,tretinoin,Tretin-X,77,Oxford,6:38 PM,7:48 PM,3,1,12/6/2023
+119,Benzalkonium Chloride,Cold Sore Treatment,75,Thompson,10:33 AM,5:00 AM,3,0,7/6/2023
+120,acyclovir,acyclovir,20,Bonner,3:47 PM,6:06 AM,2,1,12/2/2023
+121,Aluminum Chlorohydrate,Suave,45,Susan,1:25 PM,7:20 AM,2,0,5/11/2023
+122,Bupropion Hydrochloride,Bupropion Hydrochloride,84,Granby,11:36 PM,7:16 AM,1,0,1/28/2024
+123,OXYGEN,OXYGEN,41,Acker,8:05 PM,8:48 PM,5,0,8/22/2023
+124,Fluconazole,Fluconazole,22,Schiller,2:05 PM,10:32 PM,5,0,11/3/2023
+125,Ferrum phos. 6 Special Order,Ferrum phos. 6 Special Order,66,Becker,11:56 PM,6:46 PM,2,1,3/27/2023
+126,Atenolol and Chlorthalidone,Atenolol and Chlorthalidone,4,Bayside,2:50 AM,4:25 AM,1,1,4/17/2023
+127,CAFFEINE CITRATE,CAFFEINE CITRATE,56,Pleasure,6:48 PM,6:46 PM,4,1,8/9/2023
+128,Salicylic Acid,OXY Daily Defense Cleansing Pads,37,Forest Run,8:31 PM,10:20 PM,4,0,9/18/2023
+129,lisinopril,lisinopril,20,Katie,8:17 PM,12:20 PM,1,1,3/29/2023
+130,Benazepril Hydrochloride,Benazepril Hydrochloride,59,Nevada,10:06 PM,7:45 PM,2,0,10/25/2023
+131,Bismuth Subsalicylate,Peptic Relief Cherry,90,Fulton,4:07 PM,5:27 PM,3,1,6/2/2023
+132,Titanium Dioxide,4 in 1 Pressed Mineral SPF 15 Light,74,Sunnyside,12:37 AM,7:05 AM,3,1,5/28/2023
+133,Aluminum Sesquichlorohydrate,ESIKA,35,Killdeer,10:49 AM,6:14 AM,3,1,11/19/2023
+134,Rabeprazole Sodium,Rabeprazole Sodium,92,Maryland,10:42 AM,8:45 AM,2,1,12/20/2023
+135,haddock,HADDOCK,11,Hanover,1:05 PM,11:53 AM,5,1,3/30/2023
+136,"Avobenzone, Homosalate, Octisalate, and Octocrylene",DDF Ultra-Lite Oil-Free Moisturizing Dew,22,Arkansas,3:48 AM,12:56 AM,5,1,7/2/2023
+137,Lanolin and Petrolatum,CAREALL Vitamin A and D,56,Ronald Regan,8:53 PM,6:32 AM,3,1,12/29/2023
+138,ketamine hydrochloride,Ketalar,76,Elgar,2:08 AM,9:10 AM,2,1,2/17/2024
+139,"OCTINOXATE, TITANIUM DIOXIDE",CAPTURE TOTALE COMPACT RADIANCE RESTORING LINE SMOOTHING MAKEUP SPF 20 021 Linen,59,Londonderry,8:05 PM,2:47 AM,2,0,10/5/2023
+140,"Avena Sativa, Carduus Marianus, Damiana, Galium Aparine, Hamamelis Virginiana, Hepar Bovine, Korean Ginseng, Nuphar Luteum,",Testosterone,82,Hansons,1:03 PM,4:40 AM,2,0,3/8/2023
+141,"CHAMOMILE, EUPATORIUM PERFOLIATUM FLOWERING TOP, EUPHRASIA STRICTA, GELSEMIUM SEMPERVIRENS ROOT, and Potassium Iodide",Baby Nighttime Tiny Cold,92,Hudson,3:18 AM,1:10 PM,4,1,12/14/2023
+142,codeine sulfate,Codeine sulfate,90,Westend,1:36 PM,2:45 AM,3,0,12/12/2023
+143,hydrocortisone,hydrocortisone,69,Darwin,9:29 PM,6:25 PM,4,1,1/6/2024
+144,CEFEPIME,Cefepime,11,Lighthouse Bay,4:19 PM,9:36 AM,4,1,4/9/2023
+145,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",Care One Cold Head Congestion,23,Continental,11:51 PM,6:45 PM,2,0,9/22/2023
+146,Sodium Fluoride,AIM Whitening,48,Merry,7:11 AM,4:37 PM,5,0,9/16/2023
+147,sodium phenylacetate and sodium benzoate,Ammonul,56,Bunker Hill,3:27 PM,10:26 PM,1,0,5/24/2023
+148,Ibuprofen,Ibuprofen,46,Dennis,10:00 AM,4:12 PM,3,1,7/30/2023
+149,Ruta graveolens,LivRelief,29,Cardinal,7:36 AM,12:09 AM,3,0,12/29/2023
+150,Enalapril Maleate,Enalapril Maleate,85,Dahle,10:05 AM,11:30 PM,1,0,6/22/2023
+151,Aluminum Chloride,Hemox A,42,Longview,2:04 PM,12:36 AM,5,0,12/24/2023
+152,Calendula Officinalis Flower Extract,Spai-Sons,83,Drewry,7:17 PM,2:32 PM,1,1,8/24/2023
+153,clonazepam,Clonazepam,84,Fair Oaks,10:42 AM,8:15 PM,1,1,10/11/2023
+154,PHENYLEPHRINE HCHLORIDE,PSEUDO TIME PE,93,Shelley,5:28 PM,9:07 AM,3,0,4/23/2023
+155,Salicylic Acid,Dr. Scholls,19,Erie,12:05 AM,11:51 AM,2,1,11/30/2023
+156,Cefuroxime Sodium,Cefuroxime Sodium,41,Oriole,4:19 PM,5:09 PM,5,0,9/21/2023
+157,Cyclobenzaprine Hydrochloride,Cyclobenzaprine Hydrochloride,41,Amoth,9:51 AM,10:27 PM,5,1,3/4/2023
+158,OCTINOXATE,Rouge Dior 850 Red Serum,35,Mariners Cove,1:04 PM,5:30 AM,2,1,12/2/2023
+159,Treatment Set TS342370,Treatment Set TS342370,54,Fallview,2:31 AM,4:44 AM,1,0,5/14/2023
+160,OCTINOXATE OCTISALATE OXYBENZONE,OIL CONTROLLING MAKEUP,41,Aberg,10:40 PM,6:59 PM,5,0,11/2/2023
+161,aspirin and dipyridamole,Aggrenox,76,Dottie,2:58 AM,12:25 AM,3,0,8/21/2023
+162,Modafinil,Modafinil,45,Redwing,6:20 PM,6:43 AM,2,0,11/3/2023
+163,methimazole,TAPAZOLE,41,Lotheville,11:26 AM,4:33 AM,4,0,12/4/2023
+164,rabeprazole sodium,AcipHex,55,Grim,12:49 AM,3:46 AM,5,1,10/22/2023
+165,Clarithromycin,Biaxin,28,Evergreen,12:17 AM,2:28 AM,2,1,1/19/2024
+166,SIROLIMUS,Rapamune,61,Monterey,5:09 PM,9:58 PM,1,0,1/11/2024
+167,Standardized Perennial Rye Grass Pollen,Standardized Perennial Rye Grass Pollen,43,Florence,7:58 PM,11:54 PM,3,0,10/17/2023
+168,micafungin sodium,MYCAMINE,61,Hagan,5:17 AM,7:38 AM,4,1,6/7/2023
+169,Lidocaine,Lidocaine,33,Buena Vista,5:34 PM,8:01 PM,4,1,5/3/2023
+170,oxandrolone,Oxandrolone,54,Clarendon,8:20 AM,7:50 AM,2,1,3/18/2023
+171,Dimethicone,NeutrapHor,53,Nelson,9:45 AM,3:05 AM,3,1,4/19/2023
+172,Salicylic Acid,Salicylic Acid Corn Remover,45,Susan,11:01 AM,5:36 PM,5,0,6/19/2023
+173,Lidocaine Hydrochloride,Lidocaine Hydrochloride,7,Heffernan,6:44 PM,4:28 AM,3,1,12/5/2023
+174,"Octinoxate, Octocrylene, Oxybenzone, Titanium Dioxide",Nivea A Kiss of Protection Sun Protection Lip Care,37,Arrowood,12:43 PM,12:47 PM,1,1,9/7/2023
+175,Cefepime Hydrochloride,Cefepime,70,Iowa,12:08 PM,6:32 AM,2,0,10/22/2023
+176,Treatment Set TS344419,Treatment Set TS344419,55,Delaware,6:56 PM,4:46 AM,5,0,4/24/2023
+177,Amitriptyline Hydrochloride,Amitriptyline Hydrochloride,7,Hermina,10:07 AM,10:37 PM,4,1,3/20/2023
+178,norgestimate and ethinyl estradiol,TriNessa,32,Forster,1:03 PM,1:00 AM,3,0,6/18/2023
+179,"Dimethicone, Octinoxate, Octisalate, Oxybenzone",Softlips Peach Mango,57,Acker,3:23 PM,5:40 AM,5,1,9/10/2023
+180,Cefdinir,Cefdinir,40,Express,12:03 AM,1:42 PM,3,1,6/27/2023
+181,Bupropion Hydrochloride,Bupropion Hydrochloride,35,Marcy,1:03 PM,2:45 PM,4,1,6/23/2023
+182,Sennosides,Laxative Pills,18,Cambridge,4:50 PM,7:43 AM,4,0,9/16/2023
+183,Pseudoephedrine Hydrochloride,Sunmark Sinus,98,Jenifer,12:40 AM,5:31 PM,4,1,6/9/2023
+184,loteprednol etabonate,ALREX,53,Hayes,10:04 AM,7:16 PM,2,0,8/16/2023
+185,Glycerin,Gericare Artificial Tears Lubricant Eye,35,Roxbury,2:07 AM,5:23 AM,2,0,2/26/2024
+186,fluoxetine,Fluoxetine,38,Sunbrook,4:03 AM,9:32 PM,4,0,10/12/2023
+187,"Titanium Dioxide, Zinc Oxide, Octinoxate, Octisalate",Artists Touch BB 02 Medium,16,Helena,8:39 AM,6:10 AM,2,0,5/6/2023
+188,Acetaminophen and Phenylephrine HCl,Non-Drowsy Sinus Congestion and Pain,20,Kensington,3:16 PM,9:01 PM,5,1,11/3/2023
+189,Ranitidine,Acid Reducer,37,Katie,2:30 AM,1:37 PM,2,1,3/4/2023
+190,Alcohol,PDI Sani-Hands,89,Manley,8:30 AM,7:16 PM,3,0,11/21/2023
+191,Oxycodone Hydrochloride,Oxycodone Hydrochloride,30,Eagan,10:33 PM,10:43 PM,3,0,9/7/2023
+192,Clindamycin Hydrochloride,Clindamycin Hydrochloride,8,Coolidge,5:37 AM,6:56 PM,3,0,1/14/2024
+193,Bacitracin Zinc and Polymyxin B Sulfate,AK-POLY-BAC,100,Parkside,10:39 AM,6:07 AM,2,0,9/24/2023
+194,pioglitazone,Pioglitazone,94,Stuart,4:00 PM,12:59 PM,5,1,3/12/2023
+195,"Avobenzone, Octisalate, Zinc Oxide, Octinoxate, and Oxybenzone",CY BETTER LIPS BALM Humectante para Labios con color FPS 18,89,Hayes,9:59 AM,12:53 PM,5,0,5/21/2023
+196,iva xanthifolia pollen,BURWEED MARSHELDER POLLEN,79,Mccormick,11:46 PM,10:01 PM,1,1,1/28/2024
+197,trichothecium roseum and passalora fulva and cochliobolus spicifer and myrothecium verrucaria and trichophyton schoenleinii and mycogone nigra and neurospora crassa and khuskia oryzae and paecilomyces,RINKEL MOLD MIX B,89,Bobwhite,7:40 PM,8:29 PM,2,0,5/8/2023
+198,"Mucinex Cold, Flu and Sore Throat Maximum Strength","Mucus Relief Cold, Flu and Sore Throat",64,5th,11:08 PM,6:38 PM,2,0,7/31/2023
+199,Atenolol,Atenolol,29,Towne,11:19 AM,8:57 PM,2,0,9/27/2023
+200,Sulfamethoxazole and Trimethoprim,Sulfamethoxazole and Trimethoprim,24,Village,5:36 AM,9:47 PM,4,1,6/30/2023
+201,"Codeine Phosphate, Dexchorpheniramine Maleate, Phenylephrine Hydrochloride",PRO-RED,12,Sunnyside,2:13 AM,2:49 AM,2,1,6/20/2023
+202,Flurazepam Hydrochloride,Flurazepam,6,Manufacturers,11:28 AM,3:48 AM,2,0,8/14/2023
+203,Gabapentin,Gabapentin,97,Starling,10:21 AM,10:04 AM,5,1,5/3/2023
+204,Lissamine Green,GreenGlo,18,Shopko,1:48 AM,6:43 AM,2,0,8/30/2023
+205,Acetaminophen,PediaCare Infants Fever Reducer Cherry,54,Scoville,12:01 PM,12:41 AM,2,0,5/8/2023
+206,Alprazolam,Alprazolam,96,Jenifer,4:29 AM,8:09 PM,5,0,4/27/2023
+207,Anti-interleukin-1.alpha. Immunoglobulin G Rabbit,AIL-1,2,Mifflin,3:18 PM,5:22 AM,1,0,5/5/2023
+208,sertraline hydrochloride,Sertraline Hydrochloride,36,Iowa,3:41 PM,3:48 PM,1,1,5/25/2023
+209,pentobarbital sodium,Nembutal Sodium,63,Sunbrook,12:56 PM,9:25 PM,1,0,3/13/2023
+210,SEMECARPUS ANACARDIUM JUICE and IODINE and IPECAC,Anacardium Homaccord,66,Sachtjen,11:59 AM,8:22 PM,4,1,4/8/2023
+211,Furosemide,Furosemide,31,Bunker Hill,11:39 AM,1:05 AM,4,1,6/8/2023
+212,Atomoxetine,Strattera,29,Vera,2:31 AM,1:26 PM,1,0,6/18/2023
+213,standardized senna concentrate,SenokotXTRA,52,Oakridge,11:47 AM,12:34 AM,3,0,3/24/2023
+214,Benazepril Hydrochloride and Hydrochlorothiazide,Benazepril Hydrochloride and Hydrochlorothiazide,32,Golf,4:17 AM,5:52 AM,1,0,12/7/2023
+215,Cephalexin,Cephalexin,35,Anhalt,3:17 AM,2:53 PM,1,1,2/17/2024
+216,Metronidazole,Metronidazole,36,Clarendon,11:34 PM,9:31 AM,4,1,9/23/2023
+217,Paroxetine Hydrochloride,PAROXETINE,3,Eastwood,6:40 PM,1:10 PM,2,0,12/27/2023
+218,BIOTIN,HairQ-Plus,91,Chive,7:10 AM,9:11 AM,2,1,12/22/2023
+219,"TITANIUM DIOXIDE, OCTINOXATE, OCTISALATE",IT RADIANT CC CUSHION,58,Dapin,5:21 PM,10:35 AM,2,1,11/19/2023
+220,Dimethicone,Aveeno Active Naturals Skin Relief Moisturizing,73,Melody,12:40 AM,8:35 PM,3,0,10/25/2023
+221,Acetaminophen,Sunmark Pain Reliever,69,Orin,5:18 PM,1:42 AM,1,1,6/11/2023
+222,moxifloxacin hydrochloride,MOXEZA,23,Bunker Hill,12:48 PM,7:11 AM,3,1,12/7/2023
+223,Raspberry,Raspberry,22,Cordelia,5:59 AM,3:17 PM,4,0,11/11/2023
+224,Methylphenidate Hydrochloride,Methylphenidate Hydrochloride,15,Oak,2:12 PM,2:57 AM,3,0,12/12/2023
+225,Menthol,Jakemans Peppermint,53,Golf View,9:16 AM,11:40 AM,5,0,10/20/2023
+226,"bacitracin zinc, neomycin sulfate, polymyxin B sulfate",Triple Antibiotic,18,Weeping Birch,3:10 AM,6:04 AM,4,0,3/27/2023
+227,Ursodiol,Ursodiol,77,Thompson,7:18 PM,2:40 PM,1,1,11/10/2023
+228,"avobenzone, homosalate, octisalate, octocrylene, and oxybenzone",Coppertone oil free faces Sunscreen,64,Holmberg,10:20 PM,3:43 AM,2,0,9/25/2023
+229,Sodium Bicarbonate,Sodium Bicarbonate,20,Butterfield,4:01 PM,3:03 PM,3,0,1/26/2024
+230,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,31,Prentice,6:50 AM,10:53 PM,3,0,5/28/2023
+231,Diltiazem Hydrochloride,Diltiazem Hydrochloride,10,Mifflin,5:18 PM,3:37 PM,4,1,12/21/2023
+232,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",Hydrating and Balancing Moisturizer,18,Grover,6:18 AM,9:34 AM,3,1,8/16/2023
+233,"aluminum hydroxide, magnesium hydroxide, dimethicone",ALMACONE ANTACID ANTIGAS,46,Moose,1:05 PM,2:53 PM,4,0,5/6/2023
+234,Mushroom Agaricus spp,MUSHROOM,12,Westport,1:19 AM,9:39 AM,5,0,9/28/2023
+235,Phenol,sore throat spray,21,Debs,8:19 AM,8:48 PM,5,1,11/18/2023
+236,Loratadine,Loratadine,97,Maple Wood,5:18 AM,11:16 AM,4,1,8/23/2023
+237,Acetaminophen,Topcare Arthritis Pain Relief,39,Forest Run,12:01 AM,2:17 AM,1,0,9/22/2023
+238,Benzocaine,Mark 3,48,Knutson,8:27 PM,7:02 PM,1,1,10/2/2023
+239,TRICLOSAN,RITE AID RENEWAL,63,Heath,5:33 PM,5:40 PM,4,1,1/25/2024
+240,Benzalkonium Chloride and Lidocaine Hydrochloride,Band-Aid Brand Hurt-Free Antiseptic Wash,63,Sunnyside,1:03 AM,9:58 AM,2,1,9/6/2023
+241,Ciprofloxacin Hydrochloride,Ciprofloxacin Hydrochloride,24,Sunbrook,8:06 PM,8:14 AM,1,0,5/19/2023
+242,"Arsenicum album, Bryonia, Histaminum hydrochloricum, Hydrastis canadensis, Lycopodium clavatum, Natrum muriaticum, Pulsatilla, Sabadilla, Secale cornutum, Sulphur",Grains and Gluten Intolerances,83,Anderson,12:50 PM,1:09 PM,2,0,11/15/2023
+243,Mugwort,Mugwort,96,Nova,12:14 PM,10:44 PM,3,1,6/14/2023
+244,Isopropyl Alcohol,MedPride,65,Atwood,6:00 PM,12:39 PM,5,0,3/9/2023
+245,Triclosan,Skintegrity Antibacterial Hand,33,Shoshone,6:23 AM,9:05 AM,2,0,7/21/2023
+246,"Famotidine, Calcium Carbonate, Magnesium Hydroxide",complete,5,Transport,1:21 PM,9:03 AM,3,1,8/24/2023
+247,"EPINEPHRINE - GOLD - HUMAN BREAST TUMOR CELL - ECHINACEA, UNSPECIFIED - GELSEMIUM SEMPERVIRENS ROOT - GINKGO - INFLUENZA B VIRUS - PHOSPHORIC ACID - SCUTELLARIA LATERIFLORA TOP -",Chronic Fatigue Therapy,66,Russell,9:27 PM,9:45 AM,2,0,1/15/2024
+248,TITANIUM DIOXIDE,MINERALIZE,53,Prairieview,12:30 PM,3:05 AM,1,0,6/25/2023
+249,levalbuterol hydrochloride,Levalbuterol Hydrochloride,54,Fulton,9:02 AM,7:28 PM,2,1,1/10/2024
+250,FENOFIBRATE,Fenofibrate,6,Schiller,8:45 AM,10:52 AM,5,1,2/5/2024
+251,NALOXONE HYDROCHLORIDE,Naloxone Hydrochloride,85,Meadow Vale,12:49 AM,8:06 AM,1,1,4/7/2023
+252,Aspirin,Aspirin,1,Roxbury,12:24 PM,3:16 PM,5,0,12/8/2023
+253,Morphine Sulfate,Morphine Sulfate,2,Holy Cross,12:02 PM,3:12 PM,5,1,11/21/2023
+254,Squash Zucchini,Squash Zucchini,86,Esch,11:06 PM,1:15 AM,2,0,7/29/2023
+255,BENZALKONIUM CHLORIDE,GOODSENSE ANTIBACTERIAL MOISTURIZING,12,Union,5:51 AM,10:43 AM,5,0,4/17/2023
+256,Isopropyl Alcohol,Curad Alcohol,66,Pennsylvania,10:21 AM,6:28 PM,2,1,9/7/2023
+257,Ciprofloxacin,Ciprofloxacin,48,Sunnyside,10:20 PM,1:04 PM,3,0,5/25/2023
+258,ALCOHOL,SaniGuard-SF,55,Sycamore,7:51 AM,4:43 AM,1,1,8/9/2023
+259,Lansoprazole Amoxicillin Clarithromycin,Lansoprazole Amoxicillin Clarithromycin,100,Atwood,9:45 AM,10:51 AM,1,0,5/13/2023
+260,Camphor,Muscle and Joint HRX,45,5th,2:46 AM,4:34 AM,5,1,6/7/2023
+261,Methyl Salicylate,foot works,78,Coleman,12:26 PM,10:41 PM,1,1,12/26/2023
+262,Bethanechol Chloride,Bethanechol Chloride,5,Summer Ridge,12:50 AM,7:35 AM,1,1,3/19/2023
+263,ASPIRIN,BAYER,8,Garrison,10:35 PM,12:32 AM,4,0,8/31/2023
+264,Baclofen,Baclofen,70,Warner,1:27 AM,12:09 AM,3,1,8/6/2023
+265,"Aranea diadema 12X, Conium maculatum 30X, Fumaria officinalis 6X, Galium aparine 12X, Hepar sulphuris calcareum 12X, Juglans regia 6X, Myosotis arvensis 6X, Sarsaparilla 6X, Scrophularia nodosa 6X",DR. RECKEWEG R60 Purhaemine,32,Springs,7:59 PM,4:34 AM,4,1,12/7/2023
+266,Povidone-Iodine,Iodine Formula Filled Swab,88,Sundown,1:19 PM,12:32 PM,5,1,6/12/2023
+267,Lidocaine Hydrochloride and Epinephrine Bitartrate,Lidocaine,89,Fairfield,6:27 PM,8:56 AM,4,0,7/17/2023
+268,fluocinonide,Fluocinonide,36,Union,1:30 AM,6:59 PM,4,1,8/21/2023
+269,Levonorgestrel and Ethinyl Estradiol,Sronyx,84,Bunker Hill,7:58 AM,8:53 AM,1,0,9/5/2023
+270,"Aluminum hydroxide, Magnesium hydroxide, Simethicone",healthy accents maldroxal,39,Haas,1:40 AM,1:11 AM,4,0,5/25/2023
+271,Docusate sodium and Sennosides,Stool Softener plus Stimulant Laxative,87,John Wall,5:13 PM,9:22 AM,3,1,10/19/2023
+272,latanoprost,Xalatan,84,Transport,9:32 PM,1:44 PM,5,0,1/13/2024
+273,ZALEPLON,ZALEPLON,20,Carioca,1:22 PM,2:34 AM,5,1,2/12/2024
+274,Acetaminophen,Extra Strength Acetaminophen,44,Warbler,1:15 AM,9:08 PM,3,0,7/6/2023
+275,benazepril hydrochloride,Benazepril Hydrochloride,5,Longview,5:17 AM,3:56 AM,1,0,1/21/2024
+276,Hydrocortisone,Shopko Hydrocortisone Plus 12 Moisturizers,20,Reinke,10:35 PM,8:57 AM,5,1,4/8/2023
+277,Gabapentin,Gabapentin,30,3rd,2:25 PM,4:03 AM,3,0,10/4/2023
+278,Enoxaparin Sodium,Enoxaparin Sodium,58,Forest Dale,10:04 PM,2:38 AM,1,0,10/6/2023
+279,Alcohol,Moisturizing Instant Hand Sanitizer,96,Dakota,2:05 AM,12:35 AM,4,0,8/10/2023
+280,"Octinoxate, Avobenzone and Octisalate",No7 Lifting and Firming Day Sunscreen SPF 8,93,Luster,5:52 PM,11:56 PM,3,0,8/11/2023
+281,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",Australian Gold,9,Harbort,10:43 PM,10:44 AM,3,1,11/9/2023
+282,Acetaminophen,Leader Pain Reliever,27,Aberg,4:50 PM,10:05 AM,1,1,9/5/2023
+283,Acnida tamariscina,Western Waterhemp Pollen,90,Donald,9:02 AM,3:02 PM,4,1,6/27/2023
+284,Sweet Potato,POTATO,20,Sunbrook,11:37 PM,1:28 PM,2,0,7/15/2023
+285,Sodium Fluoride,Phos-Flur,60,Lighthouse Bay,5:44 AM,4:49 PM,5,0,10/13/2023
+286,zileuton,ZYFLO,89,Larry,10:32 PM,7:32 PM,1,0,3/4/2023
+287,acetaminophen,careone childrens pain and fever,80,Bartelt,6:55 PM,2:32 PM,2,0,6/4/2023
+288,Enchanted Forest,Bodycology,30,Michigan,11:24 PM,12:14 PM,1,0,4/10/2023
+289,"Calcium Chloride, Magnesium Chloride, Potassium Chloride and Sodium Chloride",Cardioplegic,72,Portage,8:42 AM,8:45 AM,4,1,8/13/2023
+290,mometasone furoate and formoterol fumarate dihydrate,Dulera,44,Anzinger,7:06 PM,2:51 AM,3,0,10/14/2023
+291,Acetaminophen,Pain Relief,8,Stephen,6:32 AM,3:21 PM,2,0,7/13/2023
+292,ciprofloxacin hydrochloride,CILOXAN,36,Sauthoff,3:15 PM,7:38 AM,4,1,12/4/2023
+293,lamivudine,EPIVIR,72,Prairie Rose,9:02 AM,11:46 AM,4,0,2/22/2024
+294,DIMETHICONE,SOLIE EMULSION,38,Claremont,2:51 AM,10:12 PM,2,1,12/24/2023
+295,"Ensulizole, Octinoxate",advanced firming and anti wrinkle,37,Tony,1:52 PM,5:01 AM,4,1,6/14/2023
+296,Aspergillus fumigatus,Aspergillus fumigatus,70,Bunting,10:19 AM,10:43 AM,5,0,9/24/2023
+297,Gabapentin,Gabapentin,91,Carpenter,1:33 PM,11:25 AM,4,0,12/20/2023
+298,Salicylic Acid,Cover and Conceal Blemish Concealer,96,Monument,6:41 PM,7:49 AM,5,0,12/31/2023
+299,Acetaldehyde,Acetaldehyde,59,Badeau,11:57 AM,10:50 AM,3,0,4/3/2023
+300,Triclosan,Anti-Bacterial Deep Cleansing Hand,85,Crownhardt,9:02 PM,5:02 AM,4,1,4/29/2023
+301,Cartilago Argentum Joint Support,Cartilago Argentum Joint Support,73,Kedzie,2:27 PM,11:34 AM,2,1,3/13/2023
+302,isoxsuprine hydrochloride,ISOXSUPRINE HYDROCHLORIDE,97,Claremont,11:15 AM,4:08 AM,2,1,9/2/2023
+303,Triclosan,kiwi crate Liquid Hand,96,1st,10:35 PM,5:27 AM,4,0,1/20/2024
+304,fenofibrate,Fenoglide,78,Banding,4:59 AM,10:57 PM,1,0,7/4/2023
+305,Ciprofloxacin,Ciprofloxacin,48,Lakewood Gardens,1:18 AM,11:09 PM,4,1,5/6/2023
+306,Lansoprazole,Lansoprazole,52,Stoughton,5:16 AM,8:14 AM,4,1,12/29/2023
+307,Gatifloxacin,Gatifloxacin,5,Blaine,7:07 PM,6:45 AM,3,1,12/2/2023
+308,"OCTINOXATE, Zinc Oxide, OCTISALATE, Titanium Dioxide",CALIFORNIA ALOE POWER LASTING SUN BLOCK,17,Florence,12:51 PM,11:03 AM,5,0,3/26/2023
+309,A Mold Mixture,A Mold Mixture,54,Transport,1:00 PM,12:59 AM,2,0,9/10/2023
+310,levothyroxine sodium,UNITHROID,50,Laurel,4:14 AM,7:31 AM,4,0,11/15/2023
+311,"AVOBENZONE, DIMETHICONE 100, HOMOSALATE, OCTINOXATE, OCTISALATE, and OXYBENZONE",ChapStick Active Sport Ready,30,Bayside,8:18 PM,9:10 PM,4,0,8/17/2023
+312,oxymetholone,Anadrol-50,69,Claremont,4:59 PM,1:24 PM,3,1,8/16/2023
+313,Clonazepam,Clonazepam,5,Kenwood,12:43 PM,9:08 AM,4,0,12/28/2023
+314,Titanium Dioxide,High Protection Sun SPF 30,58,Sloan,10:54 PM,2:42 PM,4,0,2/22/2024
+315,"Piperonyl Butoxide, Pyrethrum Extract",Lice Complete Kit,8,Amoth,8:52 PM,7:25 PM,1,0,5/4/2023
+316,Levothyroxine Sodium,Synthroid,83,Armistice,2:09 AM,5:08 AM,3,1,3/7/2023
+317,HYDROCORTISONE,HYDROCORTISONE,56,Lerdahl,1:27 PM,11:31 AM,4,0,11/12/2023
+318,"Avobenzone, Octisalate, Octocrylene",Nivea Men Sensitive Protective,63,Tennyson,4:28 AM,2:49 AM,3,0,9/9/2023
+319,German Cockroach,BLATELLA GERMANICA,68,Del Mar,5:09 PM,9:40 PM,2,0,4/30/2023
+320,Diphenhydramine Hydrochloride,up and up allergy relief,22,Aberg,2:39 AM,1:01 PM,1,1,5/6/2023
+321,Gabapentin,Gabapentin,48,Summer Ridge,2:57 AM,8:04 PM,3,0,5/13/2023
+322,atropine sulfate,atropine sulfate,81,Thierer,3:06 PM,3:58 PM,2,1,6/9/2023
+323,Buffered Saline with Phenol,Diluent for Allergenic Extract - Sterile Buffered Saline with Phenol,2,Manufacturers,6:44 AM,3:52 PM,4,1,1/28/2024
+324,Salicylic acid,OXY,42,Lien,7:52 AM,6:13 AM,5,0,3/2/2023
+325,metoprolol succinate and hydrochlorothiazide,Dutoprol,9,Dovetail,11:04 PM,11:42 PM,1,0,2/25/2024
+326,"CAMPHOR (SYNTHETIC), MENTHOL, METHYL SALICYLATE",Katinko Pain And Itch Relieving,60,Utah,7:03 AM,5:45 AM,1,1,7/21/2023
+327,Granisetron Hydrochloride,Granisetron Hydrochloride,75,Grayhawk,6:22 AM,2:35 PM,3,1,10/29/2023
+328,Cosyntropin,Cosyntropin,90,Welch,9:52 AM,9:18 PM,5,1,3/30/2023
+329,Dextromethorphan Hydrobromide and Promethazine Hydrochloride,Dextromethorphan Hydrobromide and Promethazine Hydrochloride,4,Barby,8:24 AM,11:37 PM,4,0,4/22/2023
+330,VANCOMYCIN HYDROCHLORIDE,VANCOMYCIN HYDROCHLORIDE,92,Vahlen,2:24 AM,9:19 AM,3,1,11/4/2023
+331,Gemfibrozil,Gemfibrozil,65,Ridge Oak,10:13 PM,4:56 PM,4,0,6/21/2023
+332,Dog Fennel,EUPATORIUM CAPILLIFOLIUM POLLEN,38,Bartillon,10:11 AM,4:29 AM,2,0,1/11/2024
+333,"Phenobarbital, Hyoscyamine Sulfate, Atropine Sulfate, Scopolamine Hydrobromide",SE-DONNA PB HYOS,59,Barnett,3:18 PM,5:52 AM,2,0,1/31/2024
+334,fluticasone propionate and salmeterol,ADVAIR,59,Sauthoff,2:15 PM,5:56 PM,3,0,10/10/2023
+335,APIS MELLIFICA,APIS MELLIFICA,62,Grayhawk,12:55 PM,8:29 PM,1,1,4/20/2023
+336,Triclosan,Olive Leaf Antibacterial Foaming Hand Wash,35,Alpine,5:35 AM,12:22 PM,3,0,9/1/2023
+337,Pseudoephedrine HCl,Suphedrine,83,Sloan,11:54 AM,12:03 PM,1,1,12/11/2023
+338,CHLOROXYLENOL,Cleanse,87,Vidon,12:20 PM,9:46 PM,3,1,8/16/2023
+339,carbidopa and levodopa,Carbidopa and Levodopa,78,Dexter,2:03 PM,9:56 AM,4,0,3/16/2023
+340,Gabapentin,Gabapentin,32,Garrison,9:12 PM,4:48 PM,4,0,8/19/2023
+341,OCTINOXATE and TITANIUM DIOXIDE,SHISEIDO RADIANT LIFTING FOUNDATION,17,Talmadge,7:42 PM,8:49 PM,5,0,5/3/2023
+342,Ethyl Alcohol,Antibacterial Hand Towelettes,52,Dryden,5:50 AM,3:49 PM,2,0,2/21/2024
+343,CEFDINIR,CEFDINIR,47,Marcy,11:47 PM,10:27 AM,4,0,6/19/2023
+344,Nicotine Polacrilex,In Control Nicotine,15,Stang,8:34 PM,9:52 AM,1,0,1/5/2024
+345,"Titanium Dioxide, Ethylhexyl Methoxycinnamate, Ethylhexyl Salicylate, Zinc Oxide",Clamue Healthy Fresh BB Cream Medium,84,Doe Crossing,9:56 AM,7:32 AM,4,0,1/15/2024
+346,cetirizine hydrochloride,cetirizine hydrochloride,54,Stone Corner,8:54 PM,6:21 PM,1,0,6/11/2023
+347,"Butalbital, Acetaminophen and Caffeine","Butalbital, Acetaminophen and Caffeine",42,Charing Cross,1:59 AM,11:30 AM,2,0,10/29/2023
+348,Ethyl Alcohol,Cucumber Melon Hand Sanitizer,29,Mallard,7:07 AM,4:19 PM,1,1,12/21/2023
+349,Shark Cartilage,Shark Cartilage,56,Jenna,4:54 PM,12:54 AM,5,0,6/5/2023
+350,Ondansetron,Ondansetron,15,Coleman,6:25 AM,8:51 PM,5,1,10/13/2023
+351,Fluocinonide,Fluocinonide,12,Elka,8:58 PM,6:26 AM,3,1,10/8/2023
+352,ETHYL ALCOHOL,ANTI BACTERIAL HAND SANITIZER,4,Kinsman,11:05 PM,10:30 AM,5,1,5/1/2023
+353,enoxaparin sodium,Lovenox,84,Ridgeview,8:07 AM,8:38 PM,4,1,8/31/2023
+354,eucalyptus globulus,Quit Nits Preventative,77,Johnson,6:59 AM,6:54 PM,4,1,8/7/2023
+355,Sodium Hypochlorite,Dakins Quarter,79,Waubesa,9:33 PM,2:52 PM,2,1,11/27/2023
+356,ZINC OXIDE,IASO SMART POWDER PACT 23,90,Melby,7:42 PM,10:02 AM,2,0,5/30/2023
+357,"Octinoxate, Oxybenzone, and Titanium Dioxide",ESIKA,17,Elka,6:39 PM,11:19 AM,1,0,5/10/2023
+358,"Testosterone,",Testosterone,67,Spenser,12:04 PM,9:15 PM,1,0,12/8/2023
+359,morphine sulfate,Kadian,56,Magdeline,10:24 PM,12:27 AM,1,0,5/29/2023
+360,"OXYBENZONE, OCTINOXATE, ZINC OXIDE",Artistry Essentials Balancing,53,Northfield,8:59 AM,10:52 PM,3,1,1/14/2024
+361,Ofloxacin,Ofloxacin,71,Cottonwood,3:58 AM,8:11 PM,5,1,4/13/2023
+362,Sertraline Hydrochloride,Sertraline Hydrochloride,32,Little Fleur,12:26 AM,11:00 AM,4,0,6/17/2023
+363,TERBINAFINE HYDROCHLORIDE,LAMISIL,46,Cardinal,1:18 AM,4:48 AM,3,0,10/10/2023
+364,Cyclobenzaprine Hydrochloride,AMRIX,59,Mcbride,6:24 PM,7:10 AM,2,1,10/17/2023
+365,Gabapentin,Gabapentin,13,Northview,12:35 PM,4:54 AM,2,1,12/18/2023
+366,DIMETHICONE,CELLBOOSTING HOMME,1,Killdeer,10:01 PM,9:01 AM,2,0,5/5/2023
+367,Menthol,Icy Hot,26,Iowa,11:34 PM,10:13 AM,5,0,9/16/2023
+368,"INFLUENZA A VIRUS A/CALIFORNIA/7/2009 X-179A (H1N1) ANTIGEN (FORMALDEHYDE INACTIVATED), INFLUENZA A VIRUS A/TEXAS/50/2012 X-223A (H3N2) ANTIGEN (FORMALDEHYDE INACTIVATED), and INFLUENZA B VIRUS B/MASSACHUSETTS/2/2012 BX-51B ANTIGEN (FORMALDEHYDE INACTIVATED)",FLUZONE,3,Moose,12:08 AM,6:51 AM,4,1,9/27/2023
+369,Aminocaproic Acid,AMICAR,74,Carberry,9:48 AM,10:17 PM,4,1,1/31/2024
+370,Simvastatin,Simvastatin,30,Harbort,5:00 PM,9:14 PM,2,0,1/18/2024
+371,Diphenhydramine Hydrochloride,Leader Childrens Allergy,4,Mendota,9:01 AM,6:05 AM,2,0,8/11/2023
+372,Ibuprofen,PediaCare Childrens,65,Bay,9:19 PM,9:11 AM,3,0,3/15/2023
+373,Alprostadil,Caverject Impulse,12,Brickson Park,7:52 PM,7:10 PM,2,0,2/23/2024
+374,Glyburide,Glyburide,7,Reinke,11:00 AM,6:23 PM,3,1,10/16/2023
+375,HYOSCYAMINE SULFATE,Hyoscyamine Sulfate,37,Shelley,12:22 AM,8:50 PM,5,1,9/29/2023
+376,SALICYLIC ACID,DAMOAE THERAPY TONIC,45,Scoville,6:04 PM,4:27 PM,5,0,4/17/2023
+377,verapamil hydrochloride,Covera-HS,87,Westport,1:11 PM,12:26 AM,1,0,4/3/2023
+378,ACETYLCYSTEINE,Acetylcysteine,14,Milwaukee,5:16 PM,3:34 AM,1,1,3/3/2023
+379,"Baptisia tinctoria, Echinacea, Phytolacca decandra, Aconitum napellus, Arsenicum album, Belladonna, Ferrum phosphoricum, Lachesis mutus, Phosphorus",Bactestat,82,Clove,6:41 AM,5:10 AM,4,0,8/27/2023
+380,Cyclobenzaprine Hydrochloride,Fexmid,46,Morningstar,2:28 AM,3:16 PM,1,0,8/12/2023
+381,Lisinopril,Lisinopril,93,Melrose,4:04 AM,2:13 PM,4,0,9/7/2023
+382,Aluminum Zirconium Trichlorohydrex Gly,Secret Outlast and Olay Smooth,42,Delladonna,8:57 PM,4:36 AM,2,1,12/2/2023
+383,Alcohol,PDI Sani-Hands for Kids,63,Barby,5:25 AM,7:05 AM,5,0,2/27/2024
+384,Haemophilus b Conjugate Vaccine (Meningococcal Protein Conjugate),PedvaxHIB,72,Prairie Rose,10:18 AM,10:43 AM,5,1,9/22/2023
+385,methylphenidate hydrochloride,methylphenidate hydrochloride,12,Washington,5:25 AM,2:37 AM,3,1,12/15/2023
+386,Benzalkonium Chloride,Cold Sore Treatment,84,Rigney,1:09 AM,9:46 PM,3,0,12/28/2023
+387,Nitrofurantoin Macrocrystals,Nitrofurantoin Macrocrystals,31,Morningstar,3:00 PM,4:55 AM,5,0,7/12/2023
+388,benztropine mesylate,Cogentin,84,Dwight,9:15 AM,9:53 PM,5,1,2/8/2024
+389,Oxaliplatin,Oxaliplatin,10,Luster,1:21 AM,5:08 AM,3,1,3/28/2023
+390,Thiothixene,Thiothixene,73,Esch,4:15 AM,4:16 AM,4,0,6/23/2023
+391,Clopidogrel Bisulfate,Clopidogrel Bisulfate,48,Paget,12:36 AM,2:37 AM,4,1,3/25/2023
+392,Triamterene and Hydrochlorothiazide,Triamterene and Hydrochlorothiazide,40,West,11:53 PM,11:00 AM,2,0,5/14/2023
+393,Arsenicum Album,Total Arsenicum,33,Roth,4:14 PM,12:49 PM,4,0,2/2/2024
+394,Meloxicam,Meloxicam,94,3rd,8:25 PM,10:56 PM,5,1,1/9/2024
+395,Metoclopramide,Metoclopramide,59,Paget,8:23 AM,8:31 PM,3,0,11/13/2023
+396,Acetaminophen,Extra Strength Non-Aspirin Pain Reliever,78,Towne,3:51 PM,2:14 AM,1,0,5/9/2023
+397,TRAMETES VERSICOLOR FRUITING BODY,SOMA Heart-Q,15,Green,5:17 AM,2:34 AM,3,1,8/14/2023
+398,ertapenem sodium,INVANZ,4,Prairieview,2:37 PM,10:27 AM,1,0,8/16/2023
+399,quazepam,Doral,89,Mockingbird,1:25 PM,5:15 AM,2,1,7/28/2023
+400,Ondansetron,Ondansetron,83,Gateway,3:51 AM,7:39 PM,3,0,2/4/2024
+401,Metoprolol Tartrate,Metoprolol Tartrate,42,Swallow,6:23 PM,10:18 AM,3,0,1/8/2024
+402,Clonazepam,Clonazepam,40,Dixon,7:26 PM,9:58 AM,2,0,2/10/2024
+403,methohexital sodium,Brevital Sodium,6,Armistice,7:49 AM,6:54 PM,3,0,8/4/2023
+404,Dimethicone,Cellisys EX Wrinkle Solution Eye Contour,64,Quincy,11:47 PM,1:48 PM,4,0,6/11/2023
+405,Eucalyptus,Eucalyptus,77,Rusk,10:44 PM,1:03 PM,3,1,2/1/2024
+406,SODIUM FLUORIDE,SmileGuard Just 4 Me,75,Ruskin,2:57 AM,10:28 AM,2,1,11/28/2023
+407,"Dextromethorphan, Guaifenesin, Phenylephrine",BioTPres,83,Ruskin,1:20 AM,9:02 AM,5,0,7/12/2023
+408,Trichothecium roseum,Trichothecium roseum,87,Gale,4:56 PM,10:44 PM,2,0,7/12/2023
+409,Alcohol,Hand Sanitizer,55,Clarendon,11:54 PM,11:38 PM,3,1,5/13/2023
+410,clonidine hydrochloride,CLONIDINE HYDROCHLORIDE,96,Anderson,9:14 AM,9:32 AM,2,0,5/21/2023
+411,Hydrocortisone,Piyanping antiitch,79,Nelson,8:27 AM,11:22 AM,1,1,4/20/2023
+412,Losartan Potassium,Losortan Potassium,28,Armistice,2:21 PM,12:21 PM,3,0,6/21/2023
+413,menthol,Cold Spot,37,Rusk,8:53 PM,2:45 AM,2,1,12/27/2023
+414,GOLD TRICHLORIDE,Slow Digestion Diarrhea,99,Forest Run,8:15 AM,10:27 PM,2,1,9/5/2023
+415,INTERFERON BETA-1A,REBIF REBIDOSE,92,Badeau,6:37 PM,8:50 AM,2,1,9/11/2023
+416,Ibuprofen,ibuprofen,23,Colorado,2:47 AM,5:48 AM,5,1,1/27/2024
+417,Triamcinolone Acetonide,Triamcinolone Acetonide,64,Florence,11:48 AM,2:34 AM,5,1,7/15/2023
+418,Aspergillus niger,"Molds, Rusts and Smuts, Aspergillus niger",97,Vahlen,8:12 PM,7:09 AM,2,0,2/6/2024
+419,methocarbamol,Methocarbamol,57,Mcbride,5:23 AM,11:33 PM,3,0,3/23/2023
+420,Alprazolam,Alprazolam,28,Valley Edge,12:27 PM,4:42 AM,4,0,1/8/2024
+421,TRIAMCINOLONE ACETONIDE,KENALOG-40,7,Corscot,9:14 PM,5:27 PM,1,1,11/22/2023
+422,Simethicone,Mi-Acid Gas Relief,73,Emmet,5:05 AM,8:15 PM,1,0,6/26/2023
+423,ALCOHOL,3 Pack Instant Hand Sanitizer with moisturizers,18,Tennyson,12:26 AM,2:49 AM,3,0,1/30/2024
+424,Histamine,Positive Skin Test Control - Histamine,8,Randy,12:18 PM,4:43 PM,5,0,7/5/2023
+425,Ibuprofen,rexall ibuprofen,80,Rieder,10:11 PM,1:02 AM,2,0,7/14/2023
+426,spironolactone and hydrochlorothiazide,Spironolactone and Hydrochlorothiazide,49,Aberg,4:41 AM,6:52 AM,5,0,8/19/2023
+427,Poa pratensis pollen,STANDARDIZED KENTUCKY BLUEGRASS POLLEN,97,Longview,7:38 AM,3:43 PM,3,0,1/10/2024
+428,Thiothixene,Thiothixene,15,Carberry,7:31 PM,2:24 PM,1,0,3/26/2023
+429,GUAIFENESIN,Tussin,62,Amoth,5:24 AM,6:30 AM,5,1,12/30/2023
+430,Indomethacin,Indomethacin,69,Mcguire,5:59 AM,5:40 AM,2,0,2/22/2024
+431,triamcinolone acetonide,TRIESENCE,34,Buell,9:43 PM,11:40 PM,2,0,4/28/2023
+432,"Baptisia Tinctoria, Condurango, Echinacea, Hydrastis Canadensis, Nasturtium Aquaticum, Osha, Phytolacca Decandra",EBV,58,Barby,1:50 AM,7:05 PM,3,1,7/31/2023
+433,CLORAZEPATE DIPOTASSIUM,CLORAZEPATE DIPOTASSIUM,24,Union,10:51 AM,6:04 AM,2,1,12/11/2023
+434,Hydrocodone Bitartrate and Acetaminophen,Hydrocodone Bitartrate and Acetaminophen,12,Kenwood,7:48 PM,9:57 AM,1,0,3/4/2023
+435,Salicylic Acid,Neutrogena Blackhead Eliminating Daily Scrub,62,Eggendart,4:01 PM,9:17 PM,3,1,8/24/2023
+436,Triclosan,Lemon Fresh Antibacterial Foaming Hand Wash,85,Forest Dale,12:19 PM,5:12 PM,2,0,11/9/2023
+437,Carvedilol,Carvedilol,29,Talisman,11:42 AM,7:02 PM,4,0,2/5/2024
+438,Dimethicone,Dove DermaSeries,45,Bowman,7:46 AM,9:21 AM,5,1,1/14/2024
+439,1% iodoquinol - 2% hydrocortisone,Alcortin,100,Macpherson,1:04 PM,8:16 PM,1,1,9/17/2023
+440,Omeprazole,Omeprazole,37,Milwaukee,2:03 PM,2:41 PM,5,0,8/21/2023
+441,SODIUM MONOFLUOROPHOSPHATE,Plus White Coffee Drinkers Whitening,62,Anzinger,4:25 PM,5:35 PM,5,1,1/2/2024
+442,"Norepinephrine, Octopamine, Insulin, Hydrocortisone, Ascorbicum acidum, Glandula suprarenalis suis, Heart (suis)",Pericardium Triple Warmer,60,Sugar,1:52 PM,2:14 PM,4,1,2/6/2024
+443,Sodium Fluoride,Rembrandt Deeply White Plus Peroxide Whitening,37,Lerdahl,10:36 PM,5:37 AM,3,0,10/5/2023
+444,"Polyethylene glycol 400, Propylene glycol",SoundBody Long Lasting Lubricant,11,Old Shore,11:30 PM,1:22 PM,3,0,8/3/2023
+445,"ISOLEUCINE, LEUCINE, LYSINE ACETATE, METHIONINE, PHENYLALANINE, THREONINE, TRYPTOPHAN, ALANINE, ARGININE, HISTIDINE, PROLINE, SERINE, GLYCINE, VALINE, ASPARTIC ACID, N-ACETYL-TYROSINE, GLUTAMIC ACID, MAGNESIUM CHLORIDE, SODIUM PHOSPHATE, DIBASIC, SODIUM CHLORIDE, and POTASSIUM CHLORIDE",Aminosyn II with Electrolytes,36,Lawn,12:14 AM,8:29 AM,1,1,10/6/2023
+446,Argentum 0.4% Adult,Argentum 0.4% Adult,15,7th,10:57 PM,11:14 AM,4,0,5/19/2023
+447,ACETALDEHYDE,ACETALDEHYDE,20,Orin,7:53 PM,4:15 PM,5,1,11/9/2023
+448,"Arsenicum album, Phosphorus, Pulsatilla, Sepia, Alternaria tenuis, Aspergillus niger, Rhizopus nigricans,",Mold Mix Antigens,96,Dayton,6:07 AM,1:12 PM,1,1,7/2/2023
+449,hydrocortisone,hydrocortisone,62,Walton,4:52 AM,1:04 AM,2,1,6/15/2023
+450,Chlorhexidine Gluconate,Chlorhexidine Gluconate,39,Fordem,7:41 PM,12:11 AM,5,1,7/3/2023
+451,Cucumber,Cucumber,86,Shasta,5:33 AM,3:26 AM,2,0,2/13/2024
+452,Titanium dioxide,SHISEIDO ADVANCED HYDRO-LIQUID COMPACT (REFILL),74,Boyd,2:28 AM,1:18 AM,1,1,2/13/2024
+453,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl",daytime pe,38,Debra,10:38 PM,5:09 AM,2,1,7/13/2023
+454,NAPROXEN,NAPROXEN,79,Manley,12:07 PM,11:52 AM,3,0,2/22/2024
+455,Enalapril Maleate,Enalapril Maleate,34,Namekagon,12:11 AM,9:36 AM,3,1,6/27/2023
+456,Doxycycline Hyclate,Doxycycline Hyclate,84,Namekagon,1:33 PM,9:09 AM,2,1,11/28/2023
+457,"ANTIMONY POTASSIUM TARTRATE, BRYONIA ALBA ROOT, PROTORTONIA CACTI, DROSERA ROTUNDIFOLIA, IPECAC, PULSATILLA VULGARIS, RUMEX CRISPUS ROOT, PONGIA OFFICINALIS SKELETON, ROASTED, LOBARIA PULMONARIA",Chestal Berry,67,Ridgeway,5:15 PM,5:07 AM,3,1,12/31/2023
+458,KETOROLAC TROMETHAMINE,Ketorolac Tromethamine,68,Holmberg,5:20 AM,9:00 AM,5,0,3/28/2023
+459,"Aconitum nap., Anacardium orientale, Arg. nit., Arsenicum alb., Cypripedium, Gelsemium, Ignatia, Kali carb., Lycopodium, Nat.mur., Phosphorus, Sambucus nig., Sepia, Staphysag., Stramonium, Tarentula hispana, Theridion, Passiflora, Valeriana",Stage Fright - Fear,28,Londonderry,9:53 PM,10:29 PM,2,0,10/26/2023
+460,"Piperonyl Butoxide, Pyrethrum Extract",lice,48,Bowman,5:25 AM,2:05 AM,1,1,8/29/2023
+461,Isoniazid,Isoniazid,6,Schlimgen,1:37 PM,5:58 PM,3,0,7/20/2023
+462,Aluminum zirconium tetrachlorohydrex gly,Lady Speed Stick,85,High Crossing,6:00 AM,8:47 AM,5,0,12/19/2023
+463,Ketorolac Tromethamine,Ketorolac Tromethamine,92,Calypso,12:15 AM,12:16 AM,3,1,5/22/2023
+464,Saline,Leader Enema,53,Larry,6:23 AM,4:55 AM,2,0,11/23/2023
+465,SANGUINARIA CANADENSIS ROOT,Sore Throat Coughs,99,Hazelcrest,2:48 PM,12:12 PM,1,0,5/26/2023
+466,"BLACK COHOSH, CITRULLUS COLOCYNTHIS FRUIT PULP, ESIUM PHOSPHATE, DIBASIC TRIHYDRATE",Cyclease Cramp,70,Prairieview,4:56 AM,11:27 AM,2,0,6/11/2023
+467,"Avobenzone, Octisalate, and Octocrylene",MDSOLARSCIENCES,73,Steensland,6:27 PM,9:05 AM,4,0,9/25/2023
+468,German Cockroach,German Cockroach,4,Jana,12:12 AM,5:30 AM,3,0,2/7/2024
+469,CVS 44-585,Childrens Allergy Antihistamine,66,Debra,3:46 PM,2:11 PM,3,1,5/1/2023
+470,Potassium Bicarbonate,KLOR-CON/EF,67,Prairieview,2:26 AM,8:34 PM,1,0,3/14/2023
+471,HYPROMELLOSE 2208 (15000 MPA.S),VISCO SHIELD,20,Bunting,10:00 AM,1:02 AM,4,1,11/10/2023
+472,Gabapentin,Gabapentin,30,Golden Leaf,12:59 AM,11:42 AM,5,0,3/13/2023
+473,albuterol sulfate,VENTOLIN,25,Shopko,10:56 PM,9:01 PM,3,0,1/27/2024
+474,Carbidopa and Levodopa,Carbidopa and Levodopa,89,Springs,10:15 PM,12:08 AM,4,0,3/30/2023
+475,tanacetum cinerariifolium flower,PYRETHRUM,26,Mendota,6:04 PM,6:18 AM,2,1,7/30/2023
+476,Oak Mixture,Oak Mixture,73,Nova,4:18 AM,8:06 PM,2,1,6/22/2023
+477,Treatment Set TS348491,Treatment Set TS348491,45,Hanson,11:47 AM,9:09 PM,1,0,4/27/2023
+478,mesalamine,Mesalamine,61,Beilfuss,4:23 AM,8:22 AM,1,1,3/5/2023
+479,Caffeine,Diurex,80,Park Meadow,7:59 AM,1:24 AM,3,1,1/27/2024
+480,Candida albicans,Candida,95,4th,11:17 PM,9:12 PM,4,0,8/29/2023
+481,Naproxen Sodium,Good Sense All Day Pain Relief,49,Prentice,9:53 PM,3:33 PM,1,1,9/28/2023
+482,Mexiletine Hydrochloride,Mexiletine Hydrochloride,69,Melody,5:53 AM,2:34 AM,4,1,8/17/2023
+483,Naproxen Sodium,Naproxen Sodium,64,Lighthouse Bay,3:28 PM,5:03 AM,5,1,9/29/2023
+484,Ursodiol,Ursodiol,34,Thompson,6:36 AM,11:46 PM,3,0,10/25/2023
+485,Oxycodone Hydrochloride,Oxycodone Hydrochloride,4,Dennis,3:58 AM,9:11 PM,1,1,11/20/2023
+486,Penicillium notatum,Penicillium notatum,32,Quincy,4:56 PM,6:18 PM,2,1,9/1/2023
+487,midazolam hydrochloride,Midazolam,98,Arrowood,8:06 PM,3:28 AM,2,0,8/9/2023
+488,Sulfur,Naturasil,18,Steensland,5:02 AM,1:04 AM,1,0,8/23/2023
+489,ALCOHOL,Healing Waters Peach Nectarine Hand Sanitizer,43,Pond,9:36 PM,3:39 AM,4,0,11/12/2023
+490,"Acetaminophen, Diphenhydramine hydrochloride, Phenylephrine hydrochloride",care one flu and severe cold and cough,17,Talisman,1:05 PM,12:14 PM,2,1,8/25/2023
+491,"Dimethicone, Zinc Oxide",Attends Daily Barrier,6,Ridgeway,6:39 AM,1:33 PM,2,0,12/25/2023
+492,Nicardipine Hydrochloride,Nicardipine Hydrochloride,59,Raven,10:22 AM,10:22 PM,1,0,9/14/2023
+493,Zonisamide,Zonisamide,73,Eastlawn,9:21 PM,12:52 PM,2,1,10/6/2023
+494,California Black Walnut,California Black Walnut,85,Delaware,10:01 AM,2:41 AM,1,1,8/8/2023
+495,SULFUR,SULPHUR,9,Burning Wood,3:32 PM,1:28 AM,1,1,8/25/2023
+496,Oxygen,Oxygen,73,Walton,2:52 PM,2:28 AM,3,1,1/10/2024
+497,bupropion hydrobromide,Aplenzin,33,Sage,4:08 AM,5:57 AM,4,0,12/17/2023
+498,Citric Acid Monohydrate,stop hair,39,Hauk,6:58 AM,1:52 PM,5,1,8/22/2023
+499,Urea,Urea,97,Stuart,6:25 AM,7:15 PM,1,1,10/15/2023
+500,"CHAMOMILLA, ARNICA MONTANA, BORAX, HYPERICUM PERFORATUM",INFANTS TEETHING LIQUID,87,Erie,2:16 PM,4:47 AM,5,1,10/5/2023
+501,Benzethonium Chloride,Monk,60,Harper,5:53 PM,1:42 PM,5,0,11/11/2023
+502,Finasteride,Finasteride,11,Rigney,9:02 PM,12:48 PM,1,0,12/12/2023
+503,CEFIXIME,SUPRAX,79,Bashford,4:00 AM,2:06 PM,2,1,11/21/2023
+504,Octinoxate and Oxybenzone,ESIKA,22,Bultman,3:22 PM,10:43 AM,1,0,2/6/2024
+505,Tobacco Leaf,Tobacco Leaf,41,Waywood,10:28 AM,11:49 PM,1,1,6/10/2023
+506,Potassium Chloride,Klor-Con,79,Mariners Cove,10:50 PM,11:14 PM,3,1,6/7/2023
+507,SODIUM FLUORIDE,NEUTRAMAXX 5000 PLUS TURBO,51,Merry,8:52 AM,6:02 PM,3,1,2/28/2023
+508,Acetaminophen,Acetaminophen,36,Anzinger,2:31 PM,8:13 PM,4,1,1/13/2024
+509,Acyclovir and Hydrocortisone,Xerese,66,Old Shore,1:55 PM,1:25 PM,2,1,7/11/2023
+510,Athletes Foot Spray,Miconazole Nitrate,32,Messerschmidt,3:01 PM,11:52 AM,5,1,6/13/2023
+511,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",Coppertone Wet and Clear Kids,8,Oriole,12:25 AM,8:09 PM,2,0,6/18/2023
+512,Carvedilol,Carvedilol,96,Oak Valley,4:39 AM,1:54 PM,5,0,12/23/2023
+513,Meperidine Hydrochloride,Meperidine Hydrochloride,95,Shoshone,11:25 PM,9:20 AM,4,1,5/22/2023
+514,Bisacodyl,BISAC-EVAC,15,Merry,1:30 PM,4:20 PM,4,0,3/8/2023
+515,POTASSIUM CHLORIDE,Kali Muriaticum Kit Refill,83,Shoshone,11:08 PM,12:35 PM,4,1,9/12/2023
+516,PROPOFOL,Diprivan,13,Graceland,7:26 AM,3:59 AM,1,1,1/20/2024
+517,"acetaminophen, dextromethorphan hydrobromide and doxylamine succinate",Nighttime,60,Hovde,11:33 AM,8:35 PM,1,0,2/23/2024
+518,"AVOBENZONE, OCTISALATE, HOMOSALATE, OCTOCRYLENE",CARMEX cherry lip balm BROAD SPECTRUM SPF 15 SUNSCREEN,15,Talmadge,6:16 PM,2:44 AM,4,0,8/22/2023
+519,"mineral oil, petrolatum",REFRESH LACRI-LUBE,82,Old Shore,3:18 AM,4:14 PM,3,0,10/7/2023
+520,Fluconazole,Fluconazole,79,Portage,3:18 PM,11:46 PM,1,1,1/9/2024
+521,Camphor,Vaporizing,59,Lerdahl,1:55 AM,7:33 PM,4,0,1/7/2024
+522,Doxapram hydrochloride,Dopram,68,Farmco,7:24 PM,11:52 AM,1,0,12/25/2023
+523,ERTACZO,ERTACZO,61,Bayside,10:19 AM,1:01 PM,1,0,3/7/2023
+524,NITROGLYCERIN,NITRO-TIME,42,Jay,10:34 AM,12:50 AM,4,0,12/28/2023
+525,baclofen,Gablofen,91,Reindahl,1:54 AM,9:55 AM,2,0,3/15/2023
+526,"HYDROCODONE BITARTRATE, ACETAMINOPHEN, .GAMMA.-AMINOBUTYRIC ACID",Theracodophen-650,44,Melvin,10:48 PM,10:14 PM,1,1,9/10/2023
+527,atorvastatin calcium,LIPITOR,3,Nevada,12:17 PM,8:52 AM,4,0,3/30/2023
+528,Oregano,Oregano,36,Little Fleur,8:45 PM,5:23 AM,2,0,11/11/2023
+529,pioglitazone,Pioglitazone,92,Onsgard,3:02 PM,11:35 AM,3,0,8/7/2023
+530,"Pyridoxine Hydrochloride, Folic Acid, Calcium, and Ginger",Focalgin B,63,Saint Paul,4:06 AM,11:48 PM,2,1,5/22/2023
+531,SULFUR,SULPHUR,83,Paget,1:08 AM,6:50 PM,4,0,1/11/2024
+532,Risperidone,Risperidone,51,Northridge,10:22 AM,9:14 AM,2,0,1/13/2024
+533,"ARSENIC TRIOXIDE - CALCIUM SULFATE ANHYDROUS - SODIUM PHOSPHATE, DIBASIC ANHYDROUS - SILICON DIOXIDE",Skin Irritation,84,Rutledge,9:28 PM,6:36 AM,4,0,6/18/2023
+534,American Elm,American Elm,52,Cambridge,7:00 AM,9:40 PM,1,0,12/11/2023
+535,"Berberis vulgaris, Cimicifuga racemosa, Cinchona officinalis, Colocynthis, Ledum palustre, Ranunculus bulbosus, Aesculus hippocastanum, Cuprum aceticum, Nadidum, Natrum oxalaceticum, Nicotinamidum, Picricum acidum Pyridoxinum hydrochloricum,",Spine and Nerve Balance Core Formula,56,Bonner,12:52 PM,9:58 PM,1,0,7/30/2023
+536,Benzalkonium Chloride,Safe Hands U-357,4,Welch,9:52 AM,9:27 AM,1,0,6/26/2023
+537,hydrochlorothiazide,Hydrochlorothiazide,63,Spohn,8:44 AM,1:22 AM,2,1,9/1/2023
+538,TITANIUM DIOXIDE,LOCCITANE,68,Acker,4:40 AM,1:22 PM,4,1,7/1/2023
+539,Acetaminophen and Diphenhydramine Citrate,Headache Relief PM,76,Reinke,5:13 PM,3:51 PM,4,0,1/1/2024
+540,OCTINOXATE,take cover anti-aging foundation,54,Hazelcrest,6:21 AM,2:13 AM,3,0,9/6/2023
+541,N-ACETYLGLUCOSAMINE,Cheon Shim Bo Yun,69,Ridge Oak,2:15 AM,3:02 AM,3,0,1/11/2024
+542,Metformin Hydrochloride,Metformin Hydrochloride,82,Thompson,9:31 PM,9:39 PM,1,0,10/20/2023
+543,Lidocaine,Lidocaine,55,Merry,10:42 PM,6:21 PM,2,1,4/8/2023
+544,Protriptyline hydrochloride,Protriptyline hydrochloride,95,Scoville,5:53 PM,1:35 PM,5,0,11/7/2023
+545,dextromethorphan polistirex,TopCare Cough DM,85,Mosinee,9:09 PM,8:27 AM,1,1,6/11/2023
+546,"OCTINOXATE, Zinc Oxide, Titanium Dioxide",MISSHA ALL AROUND SAFE BLOCK SOFT FINISH SUN MILK,81,Riverside,3:58 PM,2:10 PM,1,1,11/28/2023
+547,"vitamin a palmitate, ascorbic acid, cholecalciferol, alpha.-tocopherol succinate, d- thiamine hydrochloride, riboflavin 5-phosphate sodium, cyanocobalamin, niacinamide, pyridoxine hydrochloride and sodium fluoride",Multi Vitamin Drops with Fluoride,14,Anniversary,2:41 PM,10:58 AM,1,1,3/18/2023
+548,ALCOHOL,RUE 21 Free Spirit Fresh Flowers Anti Bacterial Hand Sanitizer,9,Hoepker,6:44 AM,2:26 PM,4,0,12/12/2023
+549,MECLIZINE HYDROCHLORIDE,Medique Medi-Meclizine,39,Dahle,7:33 AM,1:10 AM,4,1,6/7/2023
+550,PYRITHIONE ZINC,SAFEYWAY CARE,63,Talisman,5:33 AM,7:47 PM,2,1,4/30/2023
+551,phenylephrine and witch hazel,Hemorrhoidal Cooling Gel,55,Almo,10:35 AM,11:26 AM,5,0,4/23/2023
+552,Aluminum Zirconium Pentachlorohydrex Gly,Dry Idea A.Dry Antiperspirant Solid Unscented,41,Rowland,8:44 AM,9:39 AM,3,0,4/3/2023
+553,"Avobenzone,Octinoxate, Octisalate, Octisalate, Oxybenzone",Balancing Day Moisture Broad Spectrum SPF 15,46,Nova,1:26 AM,6:17 AM,5,0,2/21/2024
+554,Sodium monofluorophosphate,Long-Lasting Wicked Fresh - Spearmint Ice,57,Butternut,1:45 AM,7:07 AM,5,1,9/26/2023
+555,Acetaminophen,Extra Strength Pain Relief,84,Bayside,9:15 PM,8:52 PM,5,0,12/8/2023
+556,Furosemide,Furosemide,25,Hintze,8:01 PM,6:21 AM,4,1,11/21/2023
+557,"Chlorcyclizine Hydrochloride, Codeine Phosphate, Phenylephrine Hydrochloride",Nasotuss,8,Scofield,4:41 AM,1:20 PM,2,0,12/24/2023
+558,GRINDELIA SQUARROSA FLOWERING TOP - CAMPHOR (NATURAL),Be gone SCRATCH-N-ITCH,51,Forster,9:18 AM,9:57 AM,2,0,10/5/2023
+559,Acetaminophen,Care One Pain Relief,32,Sherman,7:18 PM,9:58 AM,5,0,2/20/2024
+560,Cockroach American,Cockroach American,53,Shopko,11:16 PM,6:23 PM,4,0,3/31/2023
+561,"Aluminum hydroxide, Magnesium carbonate",Sunmark antacid,93,Harper,9:59 AM,8:32 PM,2,1,9/29/2023
+562,levofloxacin,levofloxacin,37,Messerschmidt,6:25 AM,8:56 AM,4,0,2/24/2024
+563,Glycerol-Saline Diluent,Glycerol-Saline Control,9,Fairview,10:12 AM,3:45 PM,2,1,12/10/2023
+564,"acetaminophen,dextromethorphan HBr, doxylamine succinate",Good Sense Night Time,57,Talmadge,10:12 PM,12:47 PM,1,0,7/14/2023
+565,TOBRAMYCIN SULFATE,Tobramycin Sulfate,24,Village,2:49 PM,1:30 PM,2,1,3/28/2023
+566,Glyburide and Metformin,Glyburide and Metformin,29,Independence,6:47 AM,3:26 AM,5,1,2/7/2024
+567,oxycodone hydrochloride,oxycodone hydrochloride,21,Holy Cross,5:26 AM,11:53 PM,2,1,3/24/2023
+568,ciclopirox,Ciclopirox,14,Cherokee,11:21 PM,5:33 PM,3,1,9/14/2023
+569,LIDOCAINE HCL,Publix Burn Relief,67,Anthes,1:10 AM,10:01 AM,5,1,5/8/2023
+570,Zinc Oxide,Meijer Elements Maximum Strength For Diaper Rash,38,Stone Corner,6:22 PM,9:52 AM,3,0,2/4/2024
+571,Moexipril Hydrochloride,Moexipril Hydrochloride,62,Corben,8:13 PM,11:42 PM,4,0,3/26/2023
+572,"Pelargonium sidoides, Aconitum Napellus, Bryonia, Eucalyptus Globulus, Eupatorium Perfoliatum, Gelsemium Sempervirens, Ipecacuanha, Phosphorus",Umcka Cold Flu Berry,19,Mifflin,5:33 PM,12:30 AM,4,1,1/15/2024
+573,Azithromycin monohydrate,Azithromycin,69,Lakeland,8:10 AM,10:09 PM,5,1,4/9/2023
+574,cyclobenzaprine hydrochloride,Cyclobenzaprine Hydrochloride,16,Porter,3:36 AM,4:39 AM,2,0,3/5/2023
+575,Aluminum Chlorohydrate,XtraCare Dry Fresh Invisible Solid,46,Anzinger,1:50 PM,12:47 PM,5,0,4/20/2023
+576,Beech,FAGUS GRANDIFOLIA POLLEN,60,Dawn,10:48 PM,9:04 AM,3,1,4/17/2023
+577,eribulin mesylate,Halaven,7,Bonner,4:33 PM,10:25 AM,3,1,11/2/2023
+578,Human Immunoglobulin G,GAMMAGARD,18,Ridge Oak,2:07 PM,6:17 PM,3,1,3/20/2023
+579,Zinc Gluconate,Cold-EEZE,12,Shopko,3:41 PM,8:07 PM,5,0,11/30/2023
+580,"LANOLIN, PETROLATUM",UP AND UP,96,Ilene,2:40 AM,12:18 PM,5,1,10/30/2023
+581,Chlordiazepoxide Hydrochloride,Chlordiazepoxide Hydrochloride,94,Dunning,11:12 AM,12:00 AM,2,0,1/10/2024
+582,Air,Air,90,Kipling,9:42 AM,2:25 PM,5,1,9/1/2023
+583,Guaifenesin/phenylephrine,Sunmark Chest Congestion Relief PE,22,Sherman,7:08 PM,11:44 PM,3,1,1/17/2024
+584,Benzalkonium Chloride,Freshorize,9,Macpherson,3:15 AM,5:43 PM,5,1,8/12/2023
+585,Renagel,Renagel,2,Golf,6:48 PM,8:54 AM,5,0,12/29/2023
+586,clonazepam,Clonazepam,60,Loomis,2:14 AM,5:34 PM,2,1,2/26/2024
+587,"Bacitracin Zinc, Neomycin Sulfate, Polymyxin B Sulfate, and Pramoxine Hydrochloride",Triple Antibiotic Plus Pain Relief,7,Vermont,7:02 AM,12:56 AM,3,0,11/1/2023
+588,PYRITHIONE ZINC,TOPCARE,23,Namekagon,8:57 AM,3:07 PM,5,1,1/10/2024
+589,Hydroxocobalamin,Cyanokit,66,Coleman,2:32 AM,6:47 AM,1,0,12/23/2023
+590,"Aconitum napellus, Belladonna, Capsicum, Chamomile, Ferrum phosphoricum, Kali muriaticum",Homeopathic Ear Ache Formula,38,Mallard,5:08 PM,5:39 PM,3,1,4/28/2023
+591,Topical menthol,Revalife,71,Hanson,9:07 AM,10:13 PM,4,1,10/3/2023
+592,Acyclovir Sodium,Acyclovir Sodium,46,Jana,2:41 PM,11:16 PM,5,1,1/21/2024
+593,Treatment Set TS340525,Treatment Set TS340525,40,Eastlawn,6:54 AM,11:36 AM,4,1,3/12/2023
+594,quetiapine fumarate,Quetiapine fumarate,81,Dorton,3:11 PM,5:19 AM,3,0,5/21/2023
+595,"Aluminum hydroxide, Magnesium hydroxide, Simethicone",Good Neighbor Pharmacy Antacid,89,Commercial,3:11 AM,10:41 PM,3,0,4/22/2023
+596,Letrozole,Letrozole,50,Blue Bill Park,2:15 PM,5:03 PM,3,0,10/5/2023
+597,Insulin human,Humulin,9,Quincy,3:03 AM,7:10 PM,3,1,2/12/2024
+598,ISOPROPYL ALCOHOL,ROYAL ALCOHOL CLEANSING PADS,44,Maple Wood,4:33 PM,10:13 PM,2,1,11/5/2023
+599,"Naproxen sodium, Pseudoephedrine HCl",Sinus and Cold D,59,Cottonwood,9:36 PM,9:42 PM,3,1,7/22/2023
+600,NITROUS OXIDE,NITROUS OXIDE,80,Northridge,4:02 PM,4:53 PM,3,1,12/31/2023
+601,Chaetomium globosum,Chaetomium globosum,63,Michigan,3:02 PM,5:21 PM,1,0,8/29/2023
+602,EUCALYPTUS GLOBULUS LEAF ECHINACEA PALLIDA THUJA OCCIDENTALIS TWIG APIS MELLIFERA SILVER NITRATE,Echinacea Thuja Flu Fighter,94,Larry,1:50 PM,10:24 AM,1,1,3/13/2023
+603,Duloxetine hydrochloride,Cymbalta,77,Ridge Oak,10:30 AM,9:18 PM,3,0,2/4/2024
+604,doxycycline,Vibramycin Monohydrate,63,American,9:39 AM,12:03 PM,2,1,12/24/2023
+605,Diclofenac Sodium,Diclofenac Sodium,6,Debs,1:09 PM,10:47 PM,1,0,4/5/2023
+606,Nitrous Oxide,Nitrous Oxide,64,Oneill,5:18 PM,6:53 AM,5,1,4/14/2023
+607,Acetaminophen,Acetaminophen,19,Northport,5:38 PM,4:15 AM,3,0,5/14/2023
+608,lorazepam,Ativan,82,American Ash,2:15 AM,12:58 AM,2,0,3/10/2023
+609,CEFTIBUTEN DIHYDRATE,CEDAX,12,Muir,8:02 PM,12:26 PM,2,0,11/12/2023
+610,Avobenzone Homosalate Octisalate Octocrylene Oxybenzone,LOreal Paris Sublime Sun,59,Roth,10:18 AM,11:11 AM,2,1,6/1/2023
+611,Guaifenesin,Equaline tussin,25,Toban,4:30 AM,3:07 PM,2,1,10/10/2023
+612,Lidocaine HCl,Xylocaine,92,Farwell,10:49 PM,11:49 AM,3,0,11/4/2023
+613,"Titanium Dioxide, Zinc Oxide",aloevella,84,Lien,4:01 PM,7:42 AM,2,1,7/27/2023
+614,Ibuprofen,Ibuprofen,32,North,1:21 PM,9:25 PM,5,0,4/23/2023
+615,Aluminum Zirconium Tricholorohydrex GLY,Sure Invisible Solid Unscented,54,Debs,1:59 AM,2:25 PM,5,1,1/31/2024
+616,oxycodone hydrochloride,oxycodone hydrochloride,62,Crescent Oaks,7:25 AM,7:33 PM,2,0,10/1/2023
+617,ZINC OXIDE AND TITANIUM DIOXIDE,MATTE MOISTURE TINT SUNSCREEN BROAD SPECTRUM SPF 15,53,Artisan,8:58 AM,7:26 PM,5,0,2/19/2024
+618,Bupropion Hydrochloride,Bupropion Hydrochloride,40,Bluestem,7:30 PM,11:06 AM,3,1,8/10/2023
+619,Metformin Hydrochloride,Metformin Hydrochloride,37,Kinsman,7:47 AM,11:32 AM,3,1,4/25/2023
+620,pioglitazone,Pioglitazone,34,Swallow,9:03 AM,2:58 AM,1,0,3/31/2023
+621,CHLORPROMAZINE HYDROCHLORIDE,chlorpromazine hydrochloride,43,Westport,1:13 AM,9:58 PM,3,0,7/5/2023
+622,mesalamine,Mesalamine,55,Steensland,2:37 PM,2:35 PM,3,0,11/5/2023
+623,Naproxen Sodium,Good Sense Naproxen Sodium,84,Haas,1:35 AM,12:29 AM,1,0,10/30/2023
+624,Gabapentin,Gabapentin,94,Prairie Rose,10:27 AM,9:42 PM,3,0,12/30/2023
+625,Levetiracetam,Levetiracetam,12,Basil,2:45 PM,3:33 PM,5,1,6/16/2023
+626,Metformin Hydrochloride,Metformin Hydrochloride,52,Corben,12:37 PM,1:17 AM,3,0,10/16/2023
+627,dextromethorphan polistirex,Sunmark cough dm,50,Birchwood,3:38 PM,12:52 PM,4,0,9/21/2023
+628,OXYGEN,OXYGEN,35,1st,7:53 PM,3:10 PM,3,0,12/16/2023
+629,zolmitriptan,Zolmitriptan,26,Laurel,9:11 PM,2:59 AM,4,0,2/7/2024
+630,Titanium Dioxide,bareMinerals bareSkin Pure Brightening Serum Foundation Broad Spectrum SPF 20,29,Cody,7:17 PM,9:32 PM,5,0,2/11/2024
+631,"Acetaminophen, Chlorpheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",cold,95,Mallard,3:00 AM,1:47 AM,4,1,10/12/2023
+632,"Dextromethorphan Hydrobromide, Guaifenesin, Pseudoephedrine Hydrochloride",Despec,97,Lindbergh,5:00 PM,1:03 PM,3,0,3/10/2023
+633,NH3N13,Ammonia N 13,51,Autumn Leaf,5:50 PM,4:27 PM,2,1,6/27/2023
+634,Gabapentin,Gabapentin,38,Tennessee,4:10 AM,3:16 PM,3,0,1/19/2024
+635,Minoxidil,Hair Regrowth Treatment,45,Ridgeview,5:03 AM,6:11 PM,1,1,8/26/2023
+636,levalbuterol hydrochloride,Xopenex,68,Ridgeview,9:32 AM,10:08 AM,1,0,1/12/2024
+637,Bethanechol Chloride,Bethanechol Chloride,21,Spaight,8:26 AM,11:03 PM,2,1,7/5/2023
+638,DIOSMETIN,ISAKNOX X202 WHITENING SECRET ESSENCE,19,Lunder,9:47 AM,3:47 AM,1,1,12/25/2023
+639,Clonazepam,Clonazepam,4,Lunder,8:53 PM,12:52 PM,5,1,10/20/2023
+640,Melaleuca Pollen,Melaleuca Pollen,49,Logan,8:35 PM,2:32 AM,3,1,2/17/2024
+641,"buprenorphine hydrochloride, naloxone hydrochloride",Suboxone,68,Maywood,3:39 AM,9:45 AM,2,0,8/2/2023
+642,Menthol,cold hot patch,17,Glendale,7:25 PM,6:39 AM,3,0,8/16/2023
+643,Methocarbamol,Robaxin,16,Anderson,10:25 AM,9:57 PM,3,0,11/29/2023
+644,Acetaminophen,good neighbor pharmacy pain relief,67,Monterey,4:58 PM,2:32 AM,4,1,11/25/2023
+645,Allantoin,Perfect Calming Serum,73,Dexter,4:24 AM,2:18 PM,3,0,12/3/2023
+646,Ash White,FRAXINUS AMERICANA POLLEN,76,Maple,2:07 AM,4:42 AM,2,1,7/15/2023
+647,Doxylamine succinate,Sleep Aid,2,Warrior,3:57 PM,2:49 AM,5,1,11/14/2023
+648,"Potassium Chloride, Dextrose Monohydrate and Sodium Chloride",Potassium Chloride in Dextrose and Sodium Chloride,61,Stang,9:08 PM,4:53 PM,1,0,2/25/2024
+649,fluocinolone acetonide,Synalar,34,Grover,6:53 AM,10:58 AM,3,1,11/6/2023
+650,Cetirizine HCl,All Day Allergy,62,Porter,12:55 AM,1:47 AM,1,1,10/11/2023
+651,Hydrocodone Bitartrate And Acetaminophen,Hydrocodone Bitartrate And Acetaminophen,11,Lake View,7:58 AM,6:48 PM,5,0,8/13/2023
+652,ciprofloxacin,ciprofloxacin,33,Vahlen,4:09 AM,10:03 AM,2,0,11/30/2023
+653,Hard (Sugar) Maple,Hard (Sugar) Maple,26,Sugar,2:10 AM,9:53 PM,1,0,7/30/2023
+654,Red (River) Birch,Red (River) Birch,82,Troy,4:07 AM,6:22 AM,1,1,7/5/2023
+655,SALICYLIC ACID,YAT TIP TOR,65,Jenna,10:04 AM,9:21 PM,1,0,11/6/2023
+656,midodrine hydrochloride,Midodrine Hydrochloride,45,Hovde,12:06 PM,12:11 PM,2,0,4/16/2023
+657,DIMETHICONE,TRUFFLE EX WRINKLE EMULSION,86,Bayside,8:40 AM,8:52 AM,3,0,7/3/2023
+658,Tizanidine Hydrochloride,Tizanidine Hydrochloride,59,Fisk,8:47 AM,4:51 PM,3,0,12/21/2023
+659,Witch Hazel,SNAYTOX HYDROGEL LIP,33,Butternut,11:08 AM,6:32 AM,2,1,4/12/2023
+660,hydrocortisone,HYDROCORTISONE,41,Onsgard,11:21 AM,3:04 AM,3,1,12/1/2023
+661,NAPROXEN SODIUM,NAPRELAN,60,Bellgrove,10:40 AM,10:07 AM,5,0,6/30/2023
+662,"AVOBENZONE, OCTISALATE, HOMOSALATE, OCTOCRYLENE",CARMEX Vanilla BROAD SPECTRUM SPF 15 SUNSCREEN,60,Marcy,6:14 PM,7:19 PM,4,1,10/21/2023
+663,Hydrocortisone,Hydrocortisone Regular Strength,7,Eliot,1:05 PM,6:45 PM,1,1,7/7/2023
+664,"Titanium Dioxide, Octinoxate",Long Lasting Finish with Comfort Serum,69,Evergreen,9:34 PM,7:31 PM,2,1,9/20/2023
+665,MATRICARIA RECUTITA,Chamomilla Kit Refill,97,Pierstorff,5:35 AM,2:59 PM,3,0,11/13/2023
+666,Water,Bacteriostatic Water,86,Acker,11:46 PM,7:16 AM,3,0,6/1/2023
+667,Telmisartan and Hydrochlorothiazide,Telmisartan and Hydrochlorothiazide,65,Nevada,10:59 PM,11:36 PM,2,0,6/4/2023
+668,CARBAMAZEPINE,CARBAMAZEPINE,93,Cardinal,11:17 PM,6:07 PM,5,0,8/9/2023
+669,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,30,Express,4:17 AM,7:43 AM,5,1,6/8/2023
+670,timolol maleate,TIMOLOL MALEATE,15,Village,9:42 AM,8:06 AM,3,0,1/26/2024
+671,MIRTAZAPINE,REMERON,54,Thackeray,8:24 AM,12:01 AM,1,0,2/13/2024
+672,"Arsenicum iodatum, Bryonia, Cistus canadensis, Hepar sulph. calc., Histaminum hydrochloricum, Hydrastis, Iodium, Kali bic., Kali iod., Merc. iod. rub., Merc. viv., Nux vom., Phosphorus, Pulsatilla, Sabadilla, Sticta, Verbascum, Echinacea",Sinusitis,79,Arapahoe,5:14 AM,4:30 PM,5,0,11/15/2023
+673,fluoxetine hydrochloride,Fluoxetine Hydrochloride,26,Corscot,9:24 PM,11:36 AM,2,0,2/3/2024
+674,sulindac,Sulindac,82,Sunfield,5:04 AM,3:36 PM,1,0,7/19/2023
+675,Menthol and Echinacea,Herbon Wild Cherry,50,Ridge Oak,11:41 PM,3:31 AM,2,1,12/15/2023
+676,Phoma herbarum,"Molds, Rusts and Smuts, Phoma herbarum",86,Spohn,8:03 AM,6:42 AM,3,0,2/6/2024
+677,SODIUM FLUORIDE,OralLine Kids,64,Bultman,6:01 PM,1:36 AM,1,1,12/27/2023
+678,ACETAMINOPHEN AND CODEINE PHOSPHATE,ACETAMINOPHEN AND CODEINE PHOSPHATE,49,Forster,9:19 PM,6:44 PM,1,0,4/4/2023
+679,Ethyl Alcohol,XtraCare Instant Hand Sanitizer,95,Reinke,7:37 AM,12:13 AM,3,0,11/19/2023
+680,chlorhexidine gluconate,BD E-Z Scrub,72,Messerschmidt,9:03 PM,3:54 AM,4,0,8/1/2023
+681,famciclovir,Famciclovir,83,2nd,3:17 AM,10:06 AM,4,1,9/12/2023
+682,Equisetum Formica,Equisetum Formica,57,Donald,7:57 AM,4:50 AM,2,1,4/19/2023
+683,aclidinium bromide,Tudorza Pressair,23,Di Loreto,7:43 PM,10:43 PM,3,1,9/23/2023
+684,Azelastine Hydrochloride,Azelastine Hydrochloride,52,Anhalt,5:01 PM,1:26 PM,1,0,3/1/2023
+685,"antihemophilic factor (Recombinant, Plasma/Albumin-Free)",Xyntha,88,Porter,4:42 AM,7:57 AM,1,1,3/31/2023
+686,"butalbital, acetaminophen and caffeine",Esgic,32,Hoffman,7:15 PM,8:06 AM,1,0,11/21/2023
+687,Ipratropium Bromide,Ipratropium Bromide,64,Browning,10:22 PM,5:39 PM,1,0,9/25/2023
+688,ziv-aflibercept,ZALTRAP,72,Hansons,1:10 PM,12:02 AM,5,1,8/28/2023
+689,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",health mart night time,92,Dakota,2:32 AM,1:41 AM,4,1,10/1/2023
+690,Acetaminophen,arthritis pain relief,39,Lerdahl,4:33 PM,4:44 PM,1,0,11/18/2023
+691,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate, Pseudoephedrine Hydrochloride",Night Time Cold and Flu,25,Laurel,4:24 PM,7:05 PM,4,0,4/11/2023
+692,Levofloxacin,Levofloxacin,49,Jana,3:24 PM,6:02 PM,2,1,12/2/2023
+693,clonidine hydrochloride,CLONIDINE HYDROCHLORIDE,27,Hermina,2:19 AM,6:08 PM,1,1,12/9/2023
+694,PROPRANOLOL HYDROCHLORIDE,PROPRANOLOL HYDROCHLORIDE,48,High Crossing,6:14 AM,9:32 AM,5,1,10/18/2023
+695,"Acetaminophen, Phenylephrine HCl, Dextromethorphan HBr and Guiafenesin",Daytime Multi-Symptom Severe Cold,68,Annamark,11:10 PM,10:09 AM,4,1,1/17/2024
+696,Salix lasiolepsis,Arroyo Willow Pollen,55,Warrior,5:23 AM,10:09 PM,3,0,6/15/2023
+697,Phentermine Hydrochloride,Phentermine Hydrochloride,89,Cherokee,10:00 AM,4:55 PM,5,1,7/12/2023
+698,Cresol,Formo Cresol,2,Pond,1:03 AM,4:09 AM,4,1,12/21/2023
+699,Methylphenidate Hydrochloride,Methylphenidate Hydrochloride,85,Northview,10:35 AM,7:41 AM,4,0,1/22/2024
+700,levothyroxine sodium,Levoxyl,100,Golf Course,9:14 AM,1:00 AM,1,0,5/9/2023
+701,Nevirapine,Nevirapine,38,Old Gate,10:51 AM,2:29 PM,5,1,9/30/2023
+702,Aluminum Chlorohydrate,Dove,91,Sutherland,3:39 AM,2:13 AM,3,0,11/8/2023
+703,HALOPERIDOL LACTATE,Haloperidol,25,Golf View,11:57 PM,8:17 PM,3,1,12/20/2023
+704,"EUCALYPTUS GLOBULUS LEAF, POTASSIUM DICHROMATE",SINOFRESH,27,Kennedy,9:08 AM,10:18 PM,2,1,11/25/2023
+705,TOBRAMYCIN SULFATE,Tobramycin Sulfate,35,Everett,3:50 AM,9:10 AM,4,0,6/7/2023
+706,"Cyanocobalamin, Glandula suprarenalis suis, Kali carbonicum, L-carnitine, L-glutamine, L-ornithine, L-tryptophan, L-tyrosine,",Platinum for Men,80,Dawn,8:38 PM,9:30 AM,2,1,12/29/2023
+707,Phenyl Isothiocyanate,Phenyl Isothiocyanate,38,Sherman,10:48 AM,8:01 PM,4,0,7/22/2023
+708,ropinirole hydrochloride,ropinirole hydrochloride,29,Sycamore,3:42 AM,9:16 PM,4,0,3/22/2023
+709,"Aluminum Hydroxide, Magnesium Hydroxide, Simethicone",Healthy Accents Maldroxal,41,Ridge Oak,8:48 AM,12:24 AM,4,1,3/30/2023
+710,sotalol hydrochloride,Betapace AF,13,American Ash,3:02 AM,8:25 AM,3,1,8/27/2023
+711,SODIUM CHLORIDE,Sodium Chloride,35,Hallows,10:04 PM,7:03 AM,5,1,9/15/2023
+712,"Condurango, Stomach (Suis), Nux Vomica, Aurum Metallicum, Antimonium Crudum, Hyoscyamus Niger, Sulphur",MBM 10 Stomach,38,Eagle Crest,9:55 PM,12:01 PM,5,0,4/1/2023
+713,Rocky Mountain Juniper,Rocky Mountain Juniper,10,Kenwood,2:59 PM,4:50 AM,2,0,4/27/2023
+714,Nicotine polacrilex,Nicotine,33,Corry,7:24 PM,7:37 AM,2,0,4/30/2023
+715,Alcohol,Decon Hand Instant Hand Sanitizer,28,Sutherland,10:24 PM,5:04 AM,4,0,11/4/2023
+716,"ARNICA MONTANA ROOT, ATROPA BELLADONNA, CALENDULA OFFICINALIS FLOWERING TOP, MATRICARIA RECUTITA, ACHILLEA MILLEFOLIUM, CALCIUM SULFIDE, COMFREY ROOT, ACONITUM NAPELLUS, BELLIS PERENNIS, MERCURIUS SOLUBILIS, HYPERICUM PERFORATUM, ECHINACEA, UNSPECIFIED, ECHINACEA PURPUREA and HAMAMELIS VIRGINIANA ROOT BARK/STEM BARK",Traumeel,24,Continental,3:22 PM,12:59 AM,5,0,9/2/2023
+717,Lisinopril and Hydrochlorothiazide,Lisinopril and Hydrochlorothiazide,64,David,12:36 AM,5:41 PM,4,1,11/22/2023
+718,Candida albicans,Candida albicans,41,East,10:19 AM,11:06 AM,4,1,6/18/2023
+719,Dextrose,Infant Dextrose,88,Old Shore,3:24 AM,11:14 PM,2,0,1/24/2024
+720,Ketoconazole,Ketoconazole,88,Twin Pines,9:54 AM,8:41 PM,3,0,7/24/2023
+721,dextroamphetamine sulfate,Dextroamphetamine Sulfate,19,Northview,9:00 PM,2:05 PM,3,0,2/5/2024
+722,Stannous Fluoride,Crest Sensitivity,38,Bashford,2:29 PM,3:50 PM,4,0,5/1/2023
+723,cefuroxime axetil,CEFTIN,44,Ramsey,10:42 PM,11:47 PM,2,0,4/22/2023
+724,Midazolam Hydrochloride,Midazolam Hydrochloride,79,Golf View,8:02 PM,9:02 PM,4,1,4/30/2023
+725,Aluminum Chlorohydrate,Nuvel Softy Antiperspirant Deodorant Stick,29,Knutson,11:23 AM,7:48 AM,3,1,2/20/2024
+726,"famotidine, calcium carbonate and magnesium hydroxide",acid controller complete,14,Del Mar,4:05 AM,7:32 AM,3,1,2/5/2024
+727,Hydroxyethyl cellulose,Rohto Hydra,62,Elmside,11:52 AM,6:27 AM,1,0,5/4/2023
+728,Acetaminophen,Infants Silapap,41,Lighthouse Bay,12:39 AM,10:35 PM,4,1,6/3/2023
+729,Pepper Tree Pollen,Pepper Tree Pollen,17,Vidon,7:47 AM,8:05 AM,1,1,12/28/2023
+730,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,Rite Aid Sunscreen,30,Grim,8:28 AM,9:18 PM,2,1,8/9/2023
+731,tramadol hydrochloride and acetaminophen,Tramadol Hydrochloride and Acetaminophen,72,Oneill,12:31 PM,8:53 PM,3,0,1/25/2024
+732,Risperidone,Risperidone,36,Ridgeway,1:56 PM,4:37 AM,4,0,1/3/2024
+733,Menthol,ArthriPain Relief,23,Mcguire,4:32 AM,1:32 PM,4,0,7/9/2023
+734,GLYCERIN,TAMNAMO PLUS VITAL HAIR,74,Vera,10:09 PM,9:20 AM,5,0,5/18/2023
+735,Arsenicum Metallicum,Arsenicum Metallicum,8,Kinsman,6:24 PM,2:21 AM,4,0,9/2/2023
+736,Venlafaxine,Venlafaxine,97,Montana,8:29 AM,2:07 PM,4,0,3/5/2023
+737,albuterol sulfate,PROAIRHFA,57,Springs,7:58 AM,3:47 PM,3,0,11/30/2023
+738,magnesium hydroxide,MILK OF MAGNESIA MINT,29,Montana,10:04 AM,5:11 PM,4,1,4/15/2023
+739,Digoxin,Digoxin,100,Lerdahl,5:58 PM,8:07 AM,5,1,6/26/2023
+740,Diphenhydramine HCl,Sleep,77,Menomonie,3:24 AM,7:45 AM,2,1,2/28/2023
+741,OXYMETAZOLINE HYDROCHLORIDE,OXYMETAZOLINE HYDROCHLORIDE,51,Corben,1:40 AM,12:21 PM,4,0,12/5/2023
+742,Betamethasone Dipropionate,Betamethasone Dipropionate,17,Little Fleur,2:38 PM,12:35 AM,5,0,3/23/2023
+743,hydrocortisone,rexall hydrocortisone,17,Northwestern,8:50 PM,11:20 AM,4,1,10/17/2023
+744,"Zinc Oxide, Calamine",ReliaMed,20,Eastwood,5:17 PM,4:18 AM,3,1,8/25/2023
+745,Atomoxetine hydrochloride,Strattera,45,Basil,1:38 AM,3:08 AM,1,0,12/30/2023
+746,"Acetaminophen, Dextromethorphan HBr, Doxylamine Succinate",CareOne Cold and Cough,80,Cottonwood,8:19 PM,2:04 AM,1,0,12/30/2023
+747,Penicillin V Potassium,Penicillin V Potassium,98,Lillian,1:25 AM,11:13 PM,2,1,10/17/2023
+748,HUMAN IMMUNOGLOBULIN G,Carimune,30,Stone Corner,7:28 PM,11:46 PM,4,1,8/8/2023
+749,Diltiazem Hydrochloride,Cardizem LA,34,Mccormick,6:39 PM,11:07 AM,5,1,12/15/2023
+750,Naloxone Hydrochloride,Naloxone Hydrochloride,19,Daystar,11:05 AM,1:15 PM,1,0,11/28/2023
+751,ADENOSINE,Adenosine,24,Superior,8:29 PM,1:35 AM,1,1,4/2/2023
+752,lidocaine and tetracaine,SYNERA,37,Atwood,6:51 PM,3:39 AM,1,0,3/22/2023
+753,Alcohol,Hand Sanitizer,86,Blue Bill Park,4:26 PM,12:04 PM,3,1,3/8/2023
+754,"Althaea Officinalis, Natrum Carbonicum Rheum Officinale, Verbascum Thapsus, Zingiber Officinale, Aconitum Napellus",Pneumoforce,2,Caliangt,11:50 AM,12:07 PM,5,1,2/10/2024
+755,"Antimonium tartaricum, Echinacea angustifolia, Euphorbium officinarum, Hepar sulphuris calcareum, Hepatica tribola, Hydrastis canadensis, Mercurius sulfuratus ruber, Natrum muriaticum, Phosphorus",Sinus Complex,33,Hollow Ridge,8:10 PM,4:14 PM,3,0,4/9/2023
+756,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate",Smart Sense NightTime Cold and Flu,96,Crest Line,4:22 PM,9:59 PM,4,0,8/28/2023
+757,Levetiracetam,Levetiracetam,88,Chinook,9:47 PM,4:36 AM,4,1,3/3/2023
+758,Simvastatin,Simvastatin,65,Surrey,2:33 AM,4:59 PM,5,0,11/17/2023
+759,Triclosan,First Mark,62,Killdeer,2:40 AM,3:34 AM,1,0,10/28/2023
+760,Clotrimazole,Publix,92,Prentice,4:19 PM,10:19 AM,4,1,10/30/2023
+761,juglans nigra pollen,BLACK WALNUT POLLEN,97,Monterey,6:49 PM,11:28 AM,3,0,8/19/2023
+762,White Ash,White Ash,20,Elmside,9:58 PM,5:46 AM,5,0,12/11/2023
+763,GABAPENTIN,GABAPENTIN,11,Claremont,12:46 AM,9:07 AM,3,0,9/18/2023
+764,Velvet Grass,Velvet Grass,3,Claremont,6:11 AM,4:03 AM,5,0,11/10/2023
+765,FERROUS IODIDE,SKIN ERUPTIONS RUNNY NOSE,38,Weeping Birch,2:32 AM,9:48 PM,3,1,2/23/2024
+766,HYDROXYZINE PAMOATE,HYDROXYZINE PAMOATE,93,Artisan,8:11 PM,1:59 PM,2,0,7/30/2023
+767,Ethyl Alcohol,AprilGuard Antiseptic Handrub,64,Hintze,2:47 AM,6:38 PM,1,1,7/18/2023
+768,TAMSULOSIN HYDROCHLORIDE,FLOMAX,46,American Ash,10:13 AM,5:39 PM,1,0,11/14/2023
+769,Orange,Orange,27,Raven,7:57 PM,1:46 AM,2,1,6/15/2023
+770,Cefuroxime Axetil,Cefuroxime Axetil,43,Scott,12:00 AM,8:36 AM,1,1,2/11/2024
+771,DIPHENHYDRAMINE HYDROCHLORIDE,Leader Maximum Strength Sleep Aid,8,Clove,12:38 PM,8:33 AM,1,0,7/1/2023
+772,Penicillin V Potassium,Penicillin V Potassium,84,Straubel,12:46 PM,7:58 PM,2,0,1/22/2024
+773,Benzoyl Peroxide,Mary Kay Acne Treatment,90,Mcbride,2:28 AM,4:06 PM,5,1,5/3/2023
+774,Flomax,Flomax,81,Colorado,12:56 AM,11:14 AM,1,0,1/5/2024
+775,Careless Weed Amaranthus palmeri,"Pollens - Weeds, Careless Weed Amaranthus palmeri",53,Raven,2:46 PM,12:34 AM,1,0,7/30/2023
+776,Mitoxantrone Hydrochloride,Mitoxantrone Hydrochloride,34,Thackeray,12:11 PM,8:36 PM,4,1,9/8/2023
+777,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",Walgreens sunscreen,53,Fulton,3:00 PM,1:50 PM,1,1,3/1/2023
+778,LAMOTRIGINE,LAMOTRIGINE,40,Evergreen,5:46 AM,5:30 AM,4,1,10/27/2023
+779,Orange,Orange,55,Dawn,2:15 PM,9:17 PM,5,0,7/10/2023
+780,Ketorolac Tromethamine,Ketorolac Tromethamine,2,Dexter,2:12 PM,8:25 AM,3,0,3/3/2023
+781,"PHENYLEPHRINE HYDROCHLORIDE, PYRILAMINE MALEATE, and DEXTROMETHORPHAN HYDROBROMIDE",Pyril DM,79,Chinook,2:24 AM,3:32 AM,2,1,6/14/2023
+782,Aluminum Zirconium Trichlorohydrex Gly,Old Spice Red Zone Collection,17,Service,5:28 AM,8:55 PM,3,1,8/21/2023
+783,pilocarpine hydrochloride,ISOPTO CARPINE,86,Brickson Park,1:10 AM,7:21 PM,4,0,11/19/2023
+784,Clotrimazole and Betamethasone Dipropionate,Clotrimazole and Betamethasone Dipropionate,88,Orin,2:20 PM,9:26 AM,4,0,7/30/2023
+785,CISplatin,CISplatin,39,Village,6:16 AM,6:49 PM,3,1,12/24/2023
+786,Titanium Dioxide,4 in 1 Pressed Mineral SPF 15 Deeper,7,Bluestem,10:10 AM,11:20 PM,1,1,6/2/2023
+787,Gabapentin,Gabapentin,14,Moulton,7:37 PM,8:16 PM,3,1,7/11/2023
+788,Clonidine Hydrochloride,Clonidine Hydrochloride,4,Kensington,4:53 AM,5:30 AM,2,1,11/12/2023
+789,Ketorolac Tromethamine,Ketorolac Tromethamine,21,Cardinal,8:43 PM,2:30 AM,5,1,9/22/2023
+790,MINOXIDIL,BOSLEY PROFESSIONAL STRENGTH HAIR REGROWTH TREATMENT Regular Strength For Women,97,Saint Paul,2:14 PM,4:18 PM,1,0,7/24/2023
+791,eszopiclone,eszopiclone,54,Coolidge,10:07 AM,12:10 AM,4,1,10/14/2023
+792,Amoxicillin and Clavulanate Potassium,Amoxicillin and Clavulanate Potassium,41,Waxwing,11:43 AM,2:37 AM,5,0,10/6/2023
+793,Ondansetron,Ondansetron,8,Hintze,9:09 AM,1:20 AM,4,1,6/30/2023
+794,"Titanium Dioxide, Zinc Oxide, and Octinoxate",LBEL,81,Lerdahl,5:18 AM,11:44 PM,1,0,1/28/2024
+795,Alcohol,Anti-Bacterial Hand,76,Holmberg,6:01 AM,9:45 PM,4,1,2/5/2024
+796,SODIUM FLUORIDE,ORTHO GUARD,40,Portage,4:44 AM,5:47 AM,2,1,6/4/2023
+797,Cyclobenzaprine Hydrochloride,AMRIX,19,Thierer,1:44 PM,1:09 PM,5,0,1/2/2024
+798,oxcarbazepine,Oxcarbazepine,85,Forster,12:16 AM,4:27 AM,2,1,5/9/2023
+799,Sodium Fluoride,ACT Total Care Sensitive Anticavity Mint Mouth,29,Southridge,10:29 AM,7:33 PM,1,1,1/19/2024
+800,"Brompheniramine maleate, Dextromethorphan HBr, Phenylephrine HCl",equate childrens cold and cough,57,Monument,9:18 AM,12:28 AM,4,1,1/28/2024
+801,OCTINOXATE,flormar Soft Touch Foundation Sunscreen Broad Spectrum SPF 20 ST05 Warm Beige,97,Crowley,1:50 PM,3:01 PM,2,0,1/5/2024
+802,Fluconazole,Fluconazole,82,Prairie Rose,1:40 AM,5:58 PM,5,0,10/20/2023
+803,ALCOHOL,Sani-Silk,95,John Wall,8:08 PM,12:02 PM,3,1,3/22/2023
+804,"Arnica montana, Bellis perennis, Phosphorus,",Formula 10,99,Everett,1:00 PM,10:41 PM,5,1,11/1/2023
+805,SODIUM ACETATE,Sodium Acetate,79,Miller,3:00 PM,3:12 PM,4,1,7/7/2023
+806,Lisinopril,Lisinopril,83,Blue Bill Park,7:43 AM,5:12 PM,5,1,2/6/2024
+807,Budesonide,Budesonide Inhalation,35,Briar Crest,1:02 PM,5:11 AM,3,1,4/11/2023
+808,Ethyl Alcohol,Symmetry Foaming Hand Sanitizer-Unscented,94,Starling,11:38 AM,6:01 AM,5,0,4/18/2023
+809,Amoxicillin,Amoxicillin,61,Namekagon,10:22 PM,12:44 AM,3,1,11/25/2023
+810,CEFPROZIL,CEFPROZIL,5,Springs,11:20 AM,3:07 PM,3,1,5/11/2023
+811,Chlorpromazine Hydrochloride,Chlorpromazine Hydrochloride,21,Lyons,10:15 PM,9:40 AM,1,1,3/17/2023
+812,Avobenzone Homosalate Octisalate Octocrylene Oxybenzone,Kiehls Since 1851 CrossTerrain UV Skin Protector,41,Kings,4:37 AM,1:40 AM,5,0,6/7/2023
+813,GINKGO BILOBA LEAF,Pleo Ginkgo,69,8th,5:00 AM,4:54 AM,1,0,6/29/2023
+814,OCTINOXATE and TITANIUM DIOXIDE,PERFECTION LUMIERE VELVET,19,Linden,4:38 AM,4:51 AM,3,0,10/14/2023
+815,Pyrithione Zinc,Everyday Clean Dandruff,35,Spenser,1:43 PM,8:09 AM,4,1,12/18/2023
+816,Carbidopa and Levodopa,CARBIDOPA AND LEVODOPA,62,Melody,9:49 AM,8:24 PM,1,0,11/23/2023
+817,Clarithromycin,Clarithromycin,69,Browning,1:32 AM,1:16 PM,3,1,8/9/2023
+818,Amlodipine Besylate,Amlodipine Besylate,7,Green Ridge,10:04 PM,4:09 AM,4,1,2/27/2024
+819,alprazolam,Xanax,28,Evergreen,1:28 AM,3:38 AM,4,0,7/15/2023
+820,Gemfibrozil,Gemfibrozil,33,Eagan,4:48 AM,7:40 PM,1,1,4/24/2023
+821,Metoprolol succinate,Metoprolol succinate,78,Moose,12:55 AM,5:18 AM,2,0,1/27/2024
+822,Galantamine hydrobromide,Galantamine hydrobromide,86,Anderson,5:47 AM,10:18 AM,1,0,10/24/2023
+823,NAFCILLIN SODIUM,Nafcillin,96,Helena,7:10 AM,8:45 AM,2,1,4/28/2023
+824,Brussels Sprout,Brussels Sprout,68,Stephen,12:45 PM,2:17 PM,2,1,8/22/2023
+825,Octinoxate and Avobenzone,No7 Advanced Hydration Day Cream Sunscreen SPF 12,69,Aberg,3:19 AM,4:51 AM,1,1,4/3/2023
+826,OCTINOXATE and TITANIUM DIOXIDE,VITALUMIERE AQUA,63,Grasskamp,11:00 PM,11:40 AM,3,1,7/30/2023
+827,Pramipexole Dihydrochloride,Pramipexole Dihydrochloride,67,Gale,11:53 AM,10:45 PM,1,1,8/26/2023
+828,risedronate sodium,Actonel,10,Hovde,5:38 PM,8:07 AM,3,1,2/9/2024
+829,"OCTINOXATE, TITANIUM DIOXIDE",CD DiorSkin Forever Flawless Perfection Fusion Wear Makeup SPF 25 - 050,21,Tony,3:58 PM,8:32 AM,5,0,11/17/2023
+830,"Formicum acidum, Gambogia, Natrum bicarbonicum, Natrum nitricum, Natrum Nitrosum, Natrum sulphuricum, Nux vomica, Phosphoricum acidum, Phytolacca decandra, Rosa canina, Saccharinum",Aller-Detox Food Additives and Preservatives,20,Orin,3:30 AM,12:10 PM,5,1,12/9/2023
+831,"eucalyptol, menthol, methyl salicylate, thymol",Tartar Control Plus,43,Troy,7:54 AM,10:57 AM,5,1,6/30/2023
+832,alprazolam,Alprazolam,95,Starling,10:26 AM,7:58 AM,1,0,2/20/2024
+833,ruxolitinib,JAKAFI,23,Carpenter,6:40 PM,4:45 PM,3,0,6/11/2023
+834,NITROUS OXIDE,NITROUS OXIDE,100,Delladonna,2:09 PM,6:30 PM,5,1,1/15/2024
+835,Apraclonidine,Apraclonidine,46,Milwaukee,8:52 AM,9:29 AM,4,0,1/16/2024
+836,Simvastatin,Simvastatin,63,Mcbride,10:41 PM,1:01 PM,3,1,3/4/2023
+837,Polyethylene Glycol 3350,up and up powderlax,81,Emmet,8:59 PM,7:24 AM,1,0,8/4/2023
+838,Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution,Dorzolamide Hydrochloride-Timolol Maleate Ophthalmic Solution,98,Nancy,8:39 PM,7:46 PM,3,1,2/24/2024
+839,Loratadine,Topcare Allergy Relief,16,Vermont,9:47 PM,2:26 AM,5,1,11/3/2023
+840,Citalopram,Citalopram,22,Sloan,4:19 AM,7:50 PM,5,0,10/20/2023
+841,Aluminum Zirconium Trichlorohydrex Gly,Old Spice Sweat Defense,64,Lake View,12:46 PM,11:26 PM,1,0,12/20/2023
+842,Petrolatum,Aquaphor,94,Monterey,1:06 AM,12:58 AM,1,0,5/11/2023
+843,Ibuprofen,Ibuprofen,7,Oak Valley,3:17 AM,6:26 AM,5,0,7/20/2023
+844,Glycerin,PLAGENTRA MOTHERS BELLY,78,Graceland,7:48 PM,9:07 PM,4,0,7/9/2023
+845,tolterodine tartrate,Detrol LA,78,Saint Paul,10:30 AM,12:26 PM,5,0,3/24/2023
+846,mesalamine,Canasa,26,Sachs,4:23 PM,10:06 AM,4,1,5/23/2023
+847,felbamate,Felbamate,63,Stephen,4:21 AM,10:57 PM,1,1,8/6/2023
+848,ARCTIUM LAPPA ROOT,RHEUMATISM,72,Miller,6:51 PM,7:32 AM,2,0,10/11/2023
+849,Oxcarbazepine,Oxcarbazepine,86,Blaine,10:43 AM,11:34 PM,4,1,6/12/2023
+850,MAGNESIUM SULFATE HEPTAHYDRATE,Magnesium Sulfate,73,Old Shore,12:50 PM,6:35 AM,3,1,8/6/2023
+851,Lorazepam,Lorazepam,66,Everett,2:17 PM,6:21 PM,4,1,11/22/2023
+852,HydrALAZINE Hydrochloride,HydrALAZINE Hydrochloride,11,Mosinee,7:42 AM,9:05 AM,5,1,10/3/2023
+853,Duloxetine,Duloxetine,76,Brown,2:03 PM,2:12 PM,2,1,10/20/2023
+854,Naproxen,Naproxen,39,Prairie Rose,6:11 AM,10:06 AM,2,0,6/24/2023
+855,chlorhexidine gluconate and isopropyl alcohol,ChloraPrep One-Step,11,Morning,6:07 AM,3:35 AM,3,0,9/8/2023
+856,"Dextromethorphan, Guiafenesin, Pseudoephedrine HCl",Tusnel,71,American,6:17 PM,6:56 AM,3,1,4/1/2023
+857,enoxaparin sodium,Lovenox,65,Kennedy,10:08 PM,2:55 AM,5,1,2/23/2024
+858,"CYCLAMEN EUROPAEUM, ANTIMONIUM CRUDUM, ALUMINA, LYCOPODIUM CLAVATUM, ARGENTUM NITRICUM, DIGITALIS PURPUREA, MELILOTUS OFFICINALIS, GLONOINUM",HEADACHE/MIGRAINE RELIEF,34,Vernon,4:21 AM,9:27 PM,5,1,12/2/2023
+859,Lisinopril,Lisinopril,88,Victoria,10:33 PM,10:51 AM,2,0,10/8/2023
+860,Fentanyl Citrate,FENTANYL CITRATE,22,Kings,5:05 AM,11:52 AM,5,0,1/11/2024
+861,"Alfalfa, Avena sativa, Baryta carbonica, Baryta Iodata, Baryta muriatica, Calcarea carbonica, Calcarea fluorica, Calcarea phosphorica, Lycopodium clavatum, Thuja occidentalis",Childrens Growth and Development,2,Briar Crest,8:17 AM,1:56 AM,4,0,2/7/2024
+862,"ASPIRIN, IBUPROFEN, ACETAMINOPHEN, ALCOHOL, BENZALKONIUM CHLORIDE, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE",Ready America First Aid Pocket - 33 Pieces,96,Pine View,1:08 PM,4:22 AM,1,1,12/11/2023
+863,"pyridoxine, folic acid, calcium, and ginger tablet",Zingiber,17,Cascade,1:58 PM,1:59 PM,5,0,4/9/2023
+864,Ergocalciferol,Ergocalciferol,67,Manitowish,12:14 AM,1:58 AM,2,0,1/28/2024
+865,conjugated estrogens,Premarin,62,Vermont,4:24 PM,1:04 PM,4,1,2/19/2024
+866,Acetaminophen Oral Solution,APAP 500,32,Holmberg,1:45 PM,8:04 AM,1,0,2/24/2024
+867,DIVALPROEX SODIUM EXTENDED-RELEASE,DIVALPROEX SODIUM EXTENDED-RELEASE,34,Hansons,1:22 PM,4:58 PM,2,0,5/16/2023
+868,"TITANIUM DIOXIDE, OCTINOXATE, OCTISALATE, ZINC OXIDE",G9 Moisture CC,42,Southridge,9:21 PM,5:50 AM,5,1,8/30/2023
+869,Octinoxate and Titanium Dioxide,Earth and Vine BB Broad Spectrum SPF 15 Sunscreen,18,Derek,7:00 PM,7:29 PM,1,1,6/11/2023
+870,oxycodone hydrochloride and aspirin,PERCODAN,11,Forster,9:53 PM,1:13 PM,3,0,5/4/2023
+871,KETOROLAC TROMETHAMINE,Ketorolac Tromethamine,62,Thompson,7:59 PM,1:41 PM,5,0,5/26/2023
+872,METRONIDAZOLE,METRONIDAZOLE,20,Drewry,10:37 PM,12:28 AM,5,0,5/11/2023
+873,ALLANTOIN,By Pharmicell Lab Luxury Cell Performance Toner,26,Westerfield,3:54 AM,11:20 AM,2,0,4/28/2023
+874,"Acetaminophen, Doxylamine succinate, and Phenylephrine Hydrochloride",Night time sinus,81,Northfield,9:33 AM,3:41 PM,4,0,8/30/2023
+875,Bacitracin Zinc,antibiotic,18,American,1:07 AM,11:13 PM,1,1,4/11/2023
+876,TITANIUM DIOXIDE,LUICHEL SHINY CAKE NO 33,9,Waxwing,2:16 PM,11:04 AM,3,0,10/30/2023
+877,ZzzQuil,EZ Nite Sleep,55,Merrick,3:15 AM,5:04 PM,3,0,6/17/2023
+878,Alcohol,Medi-Pak Performance Instant Hand Sanitizer with Aloe,52,Ruskin,11:57 AM,9:26 AM,3,1,8/3/2023
+879,Pyrithione Zinc,Nioxin Scalp Recovery,7,Laurel,3:42 AM,11:05 AM,4,1,3/29/2023
+880,Quetiapine fumarate,Quetiapine fumarate,72,Kennedy,11:04 PM,3:29 AM,1,1,8/5/2023
+881,zolpidem tartrate,Zolpidem Tartrate,74,Norway Maple,1:03 AM,2:13 AM,2,1,10/30/2023
+882,oxymorphone hydrochloride,Opana,9,Calypso,3:15 PM,8:08 AM,3,1,9/5/2023
+883,levocetirizine dihydrochloride,levocetirizine dihydrochloride,37,Dunning,7:36 AM,12:56 PM,2,1,12/17/2023
+884,Lamotrigine,Lamotrigine,21,Westerfield,6:54 PM,5:40 AM,5,1,1/18/2024
+885,SIROLIMUS,Rapamune,30,Garrison,7:42 AM,10:29 PM,4,1,7/9/2023
+886,Water Oak,Water Oak,98,Dawn,11:32 AM,1:58 PM,2,0,1/22/2024
+887,Aspirin,Aspirin,94,Nevada,7:18 AM,4:19 PM,5,0,7/18/2023
+888,Betamethasone Dipropionate,Betamethasone Dipropionate,12,Grasskamp,5:14 PM,3:10 AM,5,1,5/15/2023
+889,DIMETHICONE,WRINKLESS CT-1,14,Straubel,4:42 AM,3:16 PM,3,1,1/7/2024
+890,Diphenhydramine Hydrochloride,Childrens Allergy,75,Declaration,4:44 AM,8:42 PM,4,1,10/5/2023
+891,Ibuprofen,good neighbor pharmacy ibuprofen,31,Messerschmidt,12:54 PM,5:31 PM,5,1,6/24/2023
+892,Estradiol,Estradiol,48,Merrick,6:46 PM,9:51 AM,3,1,4/9/2023
+893,"ALCOHOL, BENZALKONIUM CHLORIDE, BACITRACIN ZINC, NEOMYCIN SULFATE, POLYMYXIN B SULFATE, ALCOHOL",American Red Cross First Aid Kit,86,Ruskin,6:08 PM,11:17 AM,5,0,7/6/2023
+894,topiramate,Topiramate,82,Oxford,6:18 AM,12:23 AM,3,1,12/31/2023
+895,ALUMINUM CHLOROHYDRATE,Tussy Antiperspirant and Deodorant Invisible Original Fresh Spice,23,Tennyson,12:05 PM,6:17 PM,1,1,5/28/2023
+896,Camphor,O24 Pain Neutralizer,87,Talisman,12:16 AM,5:39 AM,2,1,1/15/2024
+897,Oxycodone and Acetaminophen,ENDOCET,89,Sutherland,8:39 PM,4:54 PM,4,1,10/14/2023
+898,Nabumetone,Nabumetone,19,Cascade,2:20 AM,6:46 AM,1,0,3/6/2023
+899,albuterol sulfate,VENTOLIN,44,Welch,4:58 AM,8:31 PM,2,1,12/9/2023
+900,hydrocodone bitartrate and acetaminophen,hydrocodone bitartrate and acetaminophen,66,Corben,2:40 PM,11:02 AM,3,1,5/1/2023
+901,Enalapril Maleate,Vasotec,4,Brentwood,5:24 PM,2:57 PM,2,0,6/29/2023
+902,Irbesartan and Hydrochlorothiazide,Irbesartan and Hydrochlorothiazide,62,Ridgeway,5:39 PM,4:08 AM,2,1,3/30/2023
+903,Nabumentone,Nabumetone,59,Packers,5:16 AM,7:22 PM,4,0,7/1/2023
+904,Gabapentin,Gabapentin,74,Northland,8:11 PM,5:56 PM,3,0,1/8/2024
+905,Clotrimazole,Good Neighbor Pharmacy,62,Judy,10:14 AM,10:51 PM,4,1,12/16/2023
+906,Propofol,Propofol,73,Mayer,1:34 PM,9:52 AM,1,0,2/2/2024
+907,tretinoin,Tretin-X,79,Mandrake,9:06 AM,7:52 PM,3,0,4/11/2023
+908,CheryLee MD Sensitive Skin Care TrueLipids Double Action Boo-Boo Bum,White Petrolatum,82,Riverside,3:43 AM,5:44 AM,4,1,2/27/2024
+909,Levofloxacin,Levofloxacin,100,Moland,11:24 AM,12:51 PM,1,1,11/24/2023
+910,Atenolol and Chlorthalidone,Atenolol and Chlorthalidone,79,Eagan,8:56 AM,11:10 PM,1,1,11/19/2023
+911,clozapine,Clozapine,58,Fisk,11:00 AM,6:57 PM,2,0,8/20/2023
+912,metformin hydrochloride,Glumetza,8,Oakridge,2:19 AM,9:36 AM,2,1,11/15/2023
+913,"Acetaminophen, Diphenhydramine HCl",dg health pain relief pm,86,Mesta,11:09 AM,12:23 PM,1,0,8/12/2023
+914,Quinapril Hydrochloride and Hydrochlorothiazide,Quinapril Hydrochloride and Hydrochlorothiazide,41,Bayside,4:54 PM,6:05 AM,2,1,10/29/2023
+915,Triclosan,SBS UltraPink,75,Briar Crest,4:38 AM,2:22 AM,2,1,5/29/2023
+916,Warfarin Sodium,Warfarin Sodium,87,Monument,4:16 PM,2:18 PM,5,0,5/13/2023
+917,METHYLPREDNISOLONE ACETATE,Depo-Medrol,3,Spohn,12:42 AM,9:34 AM,5,0,8/16/2023
+918,Montelukast,Montelukast,43,Bluejay,11:05 AM,12:33 AM,1,0,7/2/2023
+919,Chestnut,Chestnut,25,Delladonna,9:35 PM,6:49 AM,4,0,8/20/2023
+920,Calcium Acetate,Eliphos,22,Russell,3:34 PM,1:44 AM,4,1,10/29/2023
+921,"Methyl Salicylate, Menthol and Capsaicin",Dendracin Neurodendraxcin,68,Esker,4:57 AM,5:12 AM,5,0,11/9/2023
+922,DEXTROMETHORPHAN HYDROBROMIDE,Cough Relief,41,Fisk,8:04 PM,7:47 AM,5,0,10/20/2023
+923,metoprolol tartrate,Metoprolol tartrate,52,Eliot,6:36 PM,9:13 PM,3,0,4/27/2023
+924,diclofenac sodium,diclofenac sodium,35,Dakota,9:02 PM,6:54 AM,3,1,7/22/2023
+925,Aspirin,Aspirin,5,Lakeland,11:53 PM,8:04 PM,5,0,7/28/2023
+926,Nicotine Polacrilex,Nicotine,74,Buhler,3:55 AM,11:11 PM,1,1,4/13/2023
+927,Naproxen Sodium,Naproxen Sodium,40,Swallow,8:01 PM,12:46 PM,3,0,9/25/2023
+928,"L-carnitine, L-glutamine, L-ornithine, L-tryptophan, L-tryosine, Human chorionic gonadotropin,",Gold,73,Continental,12:47 AM,4:56 PM,4,1,5/31/2023
+929,1.1% Sodium Fluoride,SF,25,Holy Cross,4:40 PM,3:45 PM,2,0,8/11/2023
+930,Antihemophilic Factor (Recombinant),Kogenate FS,94,Waubesa,12:39 AM,5:33 AM,5,0,11/26/2023
+931,Hydrochlorothiazide,Hydrochlorothiazide,70,Elmside,9:55 AM,3:38 AM,1,1,1/26/2024
+932,Burweed Marsh Elder,Burweed Marsh Elder,72,Lotheville,3:37 AM,9:29 PM,4,1,8/26/2023
+933,Sweet Gum,Sweet Gum,35,Lukken,2:44 AM,8:28 PM,1,0,12/5/2023
+934,Amoxicillin,Amoxicillin,44,Vera,8:29 PM,12:30 PM,1,1,9/19/2023
+935,Glipizide,Glipizide,81,Kipling,2:09 PM,11:34 AM,3,1,1/18/2024
+936,Nabumetone,Nabumetone,94,Clyde Gallagher,12:32 PM,12:53 PM,5,1,11/7/2023
+937,Acetaminophen,acetaminophen,49,Saint Paul,8:45 PM,6:43 PM,1,0,11/24/2023
+938,Turnip,Turnip,73,Kinsman,12:51 AM,5:38 PM,5,1,6/10/2023
+939,LOBELIA INFLATA,Cough Hay Fever,100,Ludington,11:14 PM,2:25 PM,5,1,7/10/2023
+940,Naftifine Hydrochloride,Naftin,92,Farmco,8:55 PM,6:25 PM,3,1,1/30/2024
+941,Black Willow,Black Willow,18,Coleman,5:58 AM,10:46 AM,2,1,2/18/2024
+942,Divalproex Sodium,Divalproex Sodium,71,Division,10:14 AM,7:34 PM,4,0,8/15/2023
+943,lidocaine and tetracaine,SYNERA,46,Amoth,11:46 AM,8:08 AM,3,1,9/25/2023
+944,Methotrexate sodium,Methotrexate,4,Annamark,10:00 AM,4:42 AM,2,1,11/17/2023
+945,TRUEplus diabetics intensive moisturizing,TRUEplus diabetics intensive moisturizing,40,Schiller,2:02 AM,11:26 AM,3,1,4/18/2023
+946,labetalol hydrochloride,Trandate,78,Logan,6:58 AM,4:41 AM,1,1,11/10/2023
+947,"atropa belladonna, euphrasia stricta and mercuric chloride",Complete Eye Relief,90,Lukken,5:00 AM,7:02 AM,3,1,5/1/2023
+948,Topiramate,Topiramate,98,Atwood,5:37 PM,1:22 PM,4,0,3/9/2023
+949,Medroxyprogesterone Acetate,Medroxyprogesterone Acetate,9,Oak Valley,7:19 PM,5:31 AM,2,0,3/13/2023
+950,sumatriptan succinate,IMITREX,50,Bobwhite,4:51 AM,5:55 PM,2,0,1/16/2024
+951,"avobenzone, homosalate,octisalate",NO-AD 15 Sunscreen,92,Debra,12:01 PM,6:59 PM,3,0,9/8/2023
+952,"CHAMOMILLA, CALCAREA PHOSPHORICA, COFFEA CRUDA, BELLADONNA",INFANTS TEETHING,47,Dawn,6:32 AM,1:31 AM,2,0,9/12/2023
+953,"Octinoxate, Octisalate, Zinc Oxide, Titanium Dioxide",Atomy Sunscreen Beige,14,Mitchell,3:19 PM,11:45 AM,4,0,6/21/2023
+954,Valacyclovir Hydrochloride,Valacyclovir Hydrochloride,83,Tony,4:27 PM,11:15 PM,3,1,6/18/2023
+955,NITROGEN,NITROGEN,49,Hoffman,4:52 AM,12:39 PM,4,0,1/2/2024
+956,Valacyclovir Hydrochloride,Valacyclovir Hydrochloride,18,Glacier Hill,3:56 AM,5:49 PM,3,1,1/10/2024
+957,Menthol,Cold and Hot,13,Little Fleur,5:07 AM,4:47 PM,5,1,7/1/2023
+958,alcohol,Instant Hand Sanitizer,69,Novick,3:27 AM,5:37 PM,2,1,11/2/2023
+959,Midazolam,Midazolam,28,Twin Pines,10:15 PM,10:09 AM,3,1,11/26/2023
+960,Hackberry,CELTIS OCCIDENTALIS POLLEN,74,Petterle,11:04 AM,11:06 AM,5,1,12/22/2023
+961,"Eucalyptol, menthol, methyl salicylate, thymol",Tartar control plus,44,Northland,11:04 PM,4:45 PM,1,1,3/24/2023
+962,"OCTINOXATE, OXYBENZONE",Lip Balm SPF 15,95,Pond,1:43 PM,3:59 AM,4,1,12/20/2023
+963,SELENIUM SULFIDE,CARE ONE,25,Westerfield,4:13 PM,4:00 PM,4,0,8/20/2023
+964,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",Broad Spectrum SPF 50 Sunscreen,60,High Crossing,4:51 AM,6:40 PM,2,0,6/23/2023
+965,Valsartan and hydrochlorothiazide,Valsartan and hydrochlorothiazide,72,Autumn Leaf,2:37 PM,1:18 PM,3,1,3/1/2023
+966,enoxaparin sodium,Enoxaparin sodium,65,Lindbergh,10:40 AM,9:35 AM,5,1,7/9/2023
+967,stannous fluoride,Enamelon,67,Artisan,12:06 PM,7:22 AM,2,0,1/8/2024
+968,Tolnaftate 1%,Fungicure Athletes Foot,32,Commercial,3:25 AM,10:15 AM,1,1,4/26/2023
+969,"CALENDULA OFFICINALIS FLOWERING TOP, ECHINACEA, SODIUM CHLORIDE, and THUJA OCCIDENTALIS LEAFY TWIG",H-Balm Control,26,Mcbride,4:47 AM,6:02 AM,2,1,10/29/2023
+970,influenza virus vaccine,FLULAVAL,45,Shopko,9:19 AM,9:19 AM,3,0,8/4/2023
+971,Trolamine Salicylate,arthricream,14,Merry,4:20 PM,4:51 AM,5,1,9/22/2023
+972,Quetiapine Fumarate,Quetiapine Fumarate,23,Anhalt,3:15 AM,6:29 PM,1,0,1/13/2024
+973,Asenapine Maleate,SAPHRIS,100,Hansons,8:06 PM,1:55 PM,4,1,4/18/2023
+974,chlorhexidine gluconate,Antiseptic Cleansing Wipes,55,Hovde,1:13 PM,10:35 PM,3,0,10/17/2023
+975,Trihexyphenidyl hydrochloride,Trihexyphenidyl hydrochloride,45,Scott,12:34 AM,7:52 PM,1,0,12/17/2023
+976,Salicylic Acid,Oil-Free Daily Face,35,Schmedeman,5:24 AM,9:08 AM,4,0,11/19/2023
+977,ANGELICA DAHURICA ROOT,Gongjinhyang Qi and Jin Eye,95,Forest,8:05 PM,12:05 AM,1,0,1/27/2024
+978,Epoprostenol Sodium,Epoprostenol Sodium,27,Loeprich,8:17 AM,8:29 PM,3,1,4/20/2023
+979,"Grindelia (Robusta), Urtica urens, Ledum palustre, Staphysagria, Cedron,",Bug Bouncer,18,Nelson,2:50 PM,6:37 PM,1,1,6/11/2023
+980,Aluminum zirconium tetrachlorohydrex gly,Speed Stick,48,Vidon,8:02 AM,10:33 AM,1,0,2/21/2024
+981,Digoxin,Digoxin,40,Maple Wood,7:59 AM,9:18 AM,1,1,1/23/2024
+982,Triclosan,Anti-Bacterial Moisturizing Hand,57,Columbus,6:58 AM,6:22 AM,2,0,9/25/2023
+983,Oxygen,Oxygen,63,Graceland,12:33 AM,10:39 AM,4,1,9/6/2023
+984,Fluoxetine,Fluoxetine,66,New Castle,7:58 PM,1:27 PM,2,0,1/25/2024
+985,Carbinoxamine Maleate,Carbinoxamine Maleate,84,Anniversary,4:22 PM,5:05 PM,3,0,2/1/2024
+986,DEXTROSE and POTASSIUM CHLORIDE,POTASSIUM CHLORIDE IN DEXTROSE,60,Michigan,10:43 AM,7:42 PM,2,1,5/17/2023
+987,Doxazosin Mesylate,Doxazosin,98,Hazelcrest,6:51 PM,1:05 AM,3,0,2/24/2024
+988,Celecoxib,CELEBREX,55,Banding,1:37 PM,5:42 AM,5,1,2/25/2024
+989,OXYBUTYNIN CHLORIDE,OXYBUTYNIN CHLORIDE,36,Vera,2:25 PM,12:59 AM,3,0,1/25/2024
+990,Paroxetine Hydrochloride,Paroxetine,18,Fair Oaks,12:53 PM,12:09 AM,4,1,6/26/2023
+991,Divalproex Sodium,Divalproex Sodium,85,Crescent Oaks,12:27 AM,7:56 PM,2,0,5/24/2023
+992,Octinoxate and Titanium dioxide,SHISEIDO SHEER MATIFYING COMPACT (REFILL),59,Summit,5:28 AM,2:08 AM,2,1,7/7/2023
+993,"Betula Pendula, Cortex, Caltha Palustris, Galium Aparine, Sedum Acre, Thuja Occidentalis, Urtica Urens, Clematis Erecta",Healing Support,17,Caliangt,11:51 AM,10:54 PM,4,0,11/30/2023
+994,BENZOCAINE,Baby SensiGel,86,Maple Wood,11:51 AM,1:48 PM,1,1,2/24/2024
+995,Poplar Mixture,Poplar Mixture,86,Fremont,2:58 AM,5:13 PM,1,0,3/2/2023
+996,Methadone Hydrochloride,Methadone Hydrochloride,9,Esch,7:32 AM,5:34 PM,5,1,10/16/2023
+997,PRAVASTATIN SODIUM,PRAVASTATIN SODIUM,49,Charing Cross,6:23 AM,3:51 PM,2,1,4/27/2023
+998,ZINC OXIDE,Badger SPF 35 All Season Face,68,6th,9:01 AM,6:29 PM,1,0,9/10/2023
+999,Benzalkonium Chloride,Wash Towelette,55,Waywood,5:04 AM,4:19 AM,4,1,1/23/2024
+1000,Carvedilol,Carvedilol,87,Magdeline,9:47 PM,2:48 PM,1,1,1/6/2024
